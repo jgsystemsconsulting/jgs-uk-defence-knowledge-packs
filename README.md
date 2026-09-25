@@ -46,9 +46,9 @@ python install.py             # install packs into your coding-agent skills dire
 
 ## Use
 
-- **/ukdef** — the orchestrator. Type `/ukdef <question>` and it routes the
+- **/ukdef**: the orchestrator. Type `/ukdef <question>` and it routes the
   question to the right pack in this catalogue.
-- **/jsp-815** — the JSP 815 Defence Safety Management System pack: SMS
+- **/jsp-815**: the JSP 815 Defence Safety Management System pack: SMS
   framework, the 12 Elements, safety cases, assurance, and audit.
 
 ## Gates
