@@ -4,6 +4,7 @@
 # CI (.github/workflows/validate.yml) enforces from a trusted inline copy and
 # fails on any set-divergence from this file. Keep sorted. '#' comments and
 # blank lines are ignored; every other line must match [A-Za-z0-9.-]+.
+assets.publishing.service.gov.uk
 cisa.gov
 dau.edu
 dla.mil
@@ -13,6 +14,7 @@ energy.gov
 eur-lex
 europa.eu
 everyspec.com
+gov.uk
 govinfo.gov
 nasa.gov
 nato.int
@@ -22,5 +24,3 @@ ntrs
 ocw.mit
 omg.org
 sebokwiki
-gov.uk
-assets.publishing.service.gov.uk
