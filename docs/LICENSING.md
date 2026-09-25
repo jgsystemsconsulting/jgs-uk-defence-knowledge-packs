@@ -89,6 +89,10 @@ not affect licence compliance:
 - **Public-domain sources require no attribution at all**, so omitting a link to them
   raises no question whatsoever.
 
+Exception: sources under the Open Government Licence v3.0 carry their source links
+inside the pack LICENSE (per-document capture, docs/SOURCE-VETTING.md), which overrides
+this no-source-link posture for those sources only.
+
 The result: full, licence-compliant attribution travels with every pack, while the docs
 stay free of links to the source files themselves.
 
