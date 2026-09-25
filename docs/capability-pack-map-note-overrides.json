@@ -1,6 +1,67 @@
 {
   "schema_version": 1,
   "map_version": "0.1.0",
-  "generated_on": "2026-09-24",
-  "notes": []
+  "generated_on": "2026-09-25",
+  "notes": [
+    {
+      "pack": "jsp-815",
+      "chapter": "ch01-defence-safety-jsp-map.md",
+      "note": "Which JSP answers what: JSP 815 SMS, JSP 816 EMS, JSP 375, JSP 376, JSP 814, SofS Policy Statement, Safety Function Operating Model, DSA regulators, and duty of care scope"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "ch02-sms-structure-and-assurance-stages.md",
+      "note": "PDCA basis, Defence Safety Function role, Element / Expectation / Performance Statement hierarchy, ISO 45001 alignment claim, and assurance stages"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "ch03-leadership-and-organisation.md",
+      "note": "Leadership, governance, and culture; organisation and dependencies; SEMS applicability (E1, E2, Annex A)"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "ch04-legislation-and-exemptions.md",
+      "note": "Legislation, policy, regulation and guidance; regulator relationships; exemption certificate process (E3, Annex B)"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "ch05-risk-assessment-and-safety-cases.md",
+      "note": "Risk profile, risk management and elevation, risk communication, change tracking, and safety cases (E4.1 to E4.7)"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "ch06-supervision-contracting-control.md",
+      "note": "Supervision, contracting, control of activity, duty holding, duty of care on deployments, and Head of Establishment (E5, Annexes C and D)"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "ch07-competence-and-delegation.md",
+      "note": "Personnel competence, resources, training, and safety aspects of letters of delegation (E6, Annex E)"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "ch08-equipment-and-infrastructure.md",
+      "note": "Equipment design, manufacture, and maintenance; infrastructure design, build, and maintenance (E7, E8)"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "ch09-performance-incidents-communication.md",
+      "note": "Performance and management information; accident and incident management and emergency response; communications and stakeholder engagement (E9 to E11)"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "ch10-assurance-and-audit.md",
+      "note": "Assurance and audit, ISO 45001 clause mapping (numbers only), and Annex H audit cycle (E12, Annexes F and H)"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "glossary.md",
+      "note": "Shared Defence safety terms used across the pack, with chapter cross-references"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "cheatsheet.md",
+      "note": "Cross-chapter decision checklists, all 72 Expectations, exemption steps, safety-case triggers, and audit cycle"
+    }
+  ]
 }

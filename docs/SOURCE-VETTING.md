@@ -75,6 +75,7 @@ This list exists so the repo never ships something that triggers a takedown.
 | **RTCA DO-178C / DO-254, SAE ARP4754A / ARP4761** (avionics software/hardware design assurance; civil aircraft systems development and safety assessment) | Paywalled; no redistribution or derivative grant. (programme research 2026-09-24, docs/superpowers ingest bundle.) |
 | **ECSS standards (ESA/European space)** | Free download from ecss.nl but © ESA; "No ECSS document may be reproduced in any form without the explicit consent of ESA" (ECSS-P-00C §5.8). A pack is reproduction + derivative work. Carried from the exemplar vetting. (programme research 2026-09-24, docs/superpowers ingest bundle.) |
 | **Def Stan documents (UK defence standards)** | Case-by-case: Crown copyright, downloads free of charge but registration-gated via the DSTAN portal. **Def Stan 00-051 is UNVERIFIED** pending a registered DSTAN user recording the cover licence statement; excluded until then. If OGL v3.0 applies inside the document → Tier 2; if bespoke MOD-consent/no-reproduction terms → stays Excluded. (programme research 2026-09-24, docs/superpowers ingest bundle.) |
+| **ISO 45001 text quoted in JSP 815 Annex F** (occupational health and safety management systems standard text reproduced inside the JSP) | Third-party ISO material outside the Open Government Licence; not Crown copyright under OGL. Hard stop for pack content. (uk-defence sector build 2026-09-25, docs/superpowers/specs/2026-09-25-uk-defence-sector-repo.md.) |
 | **IMO conventions and class-society rules** (e.g. SOLAS, MARPOL, classification society rule sets) | Paywalled or unclear reuse terms; no redistribution/derivative grant identified. (programme research 2026-09-24, docs/superpowers ingest bundle.) |
 | **OMG formal specifications** (UML, SysML, BPMN, UAF, CORBA, MOF, XMI, OCL, DDS…) | OMG Specification License public grant is informational-use-only: the spec "will not be copied or posted on any network computer … or … transferred for commercial purposes" and "no modifications are made to this specification." A hosted, transformed pack breaches both. Cite + link to the OMG download; never package. Carried from the exemplar vetting. |
 
@@ -110,6 +111,10 @@ For industry families in this table, the per-document capture rule (including th
 ## Cleared families (programme research 2026-09-24)
 
 tier-1 US federal publisher works cleared for sector use (FDA, NHTSA, NRC, FAA orders); tier-2 gov.uk OGL JSPs, per-document capture.
+
+| Source set | Basis |
+|---|---|
+| **JSP 815 Defence Safety Management System V1.3** (Framework; Direction and Guidance including Elements 1-12 and Annexes A-F; Annex H V1.2). Attachment set: 21 rows (Framework, Direction and Guidance body, Elements 1-12, Annexes A-F and H); Annex G Assurance Toolkit spreadsheet excluded. | Crown copyright under Open Government Licence v3.0. Cleared Tier 2 for the jsp-815 pack; capture per the OGL per-document row (source links inside packs/jsp-815/LICENSE). Exclusions: ISO 45001 text quoted in Annex F (third-party, outside OGL) and Annex G. (uk-defence sector build 2026-09-25, docs/superpowers/specs/2026-09-25-uk-defence-sector-repo.md.) |
 
 Sector builds start from this explicit allowlist; anything not listed still goes through
 the tiers above.

@@ -4,7 +4,19 @@
   "sector_slug": "uk-defence",
   "scope": "UK Defence",
   "version": "0.1.0",
-  "updated": "2026-09-24",
-  "packs": [],
+  "updated": "2026-09-25",
+  "packs": [
+    {
+      "slug": "jsp-815",
+      "title": "JSP 815: Defence Safety Management System (Framework and Direction and Guidance)",
+      "publisher": "Ministry of Defence (Directorate of Defence Safety & Support); reconstructed by JG Systems Consulting Ltd",
+      "source_version": "JSP 815 V1.3 (Framework, Elements 1-12, Annexes A-F), Annex H V1.2; published 2026-09-01; pinned 2026-09-25",
+      "license": "Open Government Licence v3.0",
+      "license_tier": 2,
+      "commercial_use": true,
+      "chapters": 10,
+      "status": "live"
+    }
+  ],
   "planned": []
 }
