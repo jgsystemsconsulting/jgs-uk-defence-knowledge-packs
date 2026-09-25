@@ -26,7 +26,7 @@ JSP 815 is the overarching Defence Safety Management System (SMS). It turns the 
 | Overarching Defence SMS: Elements, Expectations, Performance Statement themes, assurance stages | JSP 815 Defence Safety Management System | ch02 to ch10 |
 | Roles and responsibilities of the Safety Function | Safety Function Operating Model (read with JSP 815) | named in ch01/ch02; model itself not in this pack |
 | SofS personal leadership commitment and high-level health and safety requirements | SofS Health and Safety Policy Statement | authority source; not reproduced here |
-| How Defence complies with UK health and safety legislation in day-to-day workplace practice | JSP 375: Management of Health and Safety in Defence | named only; not in this pack |
+| How Defence complies with UK health and safety legislation in day-to-day workplace practice | JSP 375: Management of Health and Safety in Defence (compliance role per Element 3; see ch04) | named only; not in this pack |
 | Defence acquisition safety policy | JSP 376 | named only; not in this pack |
 | Environmental management system counterpart to the SMS | JSP 816 Defence Environmental Management System (EMS) | named only; not in this pack |
 | Cadet forces policy and regulations | JSP 814 (Policy and Regulations for Ministry of Defence Sponsored Cadet Forces) | named only; out of JSP 815 Scope |
