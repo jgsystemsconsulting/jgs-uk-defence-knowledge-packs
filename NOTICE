@@ -12,24 +12,32 @@ This product contains two separately licensed layers:
 2. PACK CONTENT (each content pack under its upstream open source's own licence)
    The reconstructed reference notes inside each content pack's packs/<slug>/ directory
    are derived from openly-licensed or public-domain sources and carry that source's
-   licence. Attribution is provided textually below and in each packs/<slug>/LICENSE; no
-   source-material download links are published (see docs/LICENSING.md).
+   licence. Attribution is provided textually below and in each packs/<slug>/LICENSE;
+   source-material links are omitted except where a source licence requires a source
+   acknowledgement link, which then lives only inside that pack's LICENSE (see
+   docs/LICENSING.md section 4).
 
 -----------------------------------------------------------------------------------
 Third-party source attributions (one block per shipped content pack)
 -----------------------------------------------------------------------------------
 
-<!-- TEMPLATE PLACEHOLDER: the template ships no pack content. When a pack is ported
-     or created, append one attribution block here in the exemplar format:
+[pack: jsp-815]
+  Source : JSP 815 Defence Safety Management System, Version 1.3 (Framework;
+           Direction and Guidance: Elements 1-12, Annexes A-F; Annex H V1.2),
+           published 2026-09-01. Source links in packs/jsp-815/LICENSE.
+  Author : Ministry of Defence. © Crown copyright.
+  Licence: Open Government Licence v3.0
+  Changes: reconstructed as synthesized reference notes (not a reproduction)
+  Terms  : Contains public sector information licensed under the Open
+           Government Licence v3.0. Attribution required. No suggestion of
+           MOD endorsement or official status. ISO 45001 text quoted in
+           Annex F is third-party material outside the OGL and is not
+           reproduced. See packs/jsp-815/LICENSE.
 
-[pack: <slug>]
-  Source : <full source title, version, and identifier>
-  Author : <publishing organisation>
-  Licence: <licence name and URL, or public-domain basis>
-  Changes: <how the pack relates to the source>
-  Terms  : <binding conditions and caveats, ending with a pointer to
-            packs/<slug>/LICENSE>
--->
+-----------------------------------------------------------------------------------
+JSP 815 is published by the UK Ministry of Defence. This repository is not
+affiliated with, endorsed by, or an official publication of the Ministry of Defence.
+-----------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------
 The build pipeline uses the jgs-reference-skill extraction engine (MIT License,

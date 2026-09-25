@@ -15,4 +15,4 @@ All notable changes to this project are documented here. Format follows
 
 ### Added
 
-- Template initialised from jgs-se-knowledge-packs.
+- Initial public release: jsp-815 knowledge pack (JSP 815 Defence Safety Management System V1.3, Open Government Licence v3.0) and /ukdef orchestrator.
