@@ -47,7 +47,7 @@ Each pack brief returns at most 10 claims of at most two sentences, each with a 
 ### Citations and Sources
 
 Cite only files read this session, in these forms: `[slug chNN]`, `[slug index]`,
-`[slug glossary|patterns|cheatsheet]`. Drop uncited claims. Agreeing claims merge into one statement carrying every citation. Where the packs are silent, say so; no fallback to model memory. Every answer ends with a **Sources** block listing each pack's slug, its `**Source**` line, and its licence. Content-pack licences come from the Licences table, else the label `Public Domain (US Government work)`. Signpost lines read `MIT (signpost)`. Non-commercial and share-alike terms appear in full.
+`[slug glossary|patterns|cheatsheet]`. Drop uncited claims. Agreeing claims merge into one statement carrying every citation. Where the packs are silent, say so; no fallback to model memory. Every answer ends with a **Sources** block listing each pack's slug, its `**Source**` line, and its licence. Content-pack licences come from the Licences table, else the label `Public Domain (US Government work)`. The jsp-815 Sources line carries its `**Source**` Open Government Licence attribution statement, and its licence `Open Government Licence v3.0` comes from the Licences table. Signpost lines read `MIT (signpost)`. Non-commercial and share-alike terms appear in full.
 
 ### Deliverable stage chains
 
@@ -71,18 +71,34 @@ Output goes in the reply unless the user names a file. A deliverable with no mat
 ### Topics
 | Topic | Keywords | Packs (best first) |
 |---|---|---|
+| Defence SMS structure and which JSP applies | JSP 815, SMS, safety management system, Defence Safety Function, Safety Operating Model, SofS Policy Statement, JSP 375, JSP 376, JSP 816, JSP 814, duty of care, PDCA, must and should, Expectation, Element, Performance Statement | `jsp-815` |
+| Leadership, governance, safety culture | leadership, governance, Defence Safety Committee, safety culture, tone from the top, Just Culture, Parker-Hudson Ladder, speaking up, corporate governance, accountability | `jsp-815` |
+| Organisation and dependencies, SEMS | SEMS, safety management arrangements, Defence Area, FULLCOM, OPCOM, lodge, CSOC, MOU, organisational change, OSA, dependencies and interfaces, contractor standards, consultation, resources | `jsp-815` |
+| Legislation, regulators, exemption certificates | legislation, HSWA, SFAIRP, DED, Crown enforcement, statutory regulator, DSA regulators, MAA, DNSR, exemption certificate, ECS, waiver, concession, Combat Immunity | `jsp-815` |
+| Risk assessment and safety cases | risk assessment, risk profile, ALARP, tolerability, elevation, golden thread, Risk to Life, RtL, safety case, bow-tie, 5x5 matrix, change management, Principal Safety Risk | `jsp-815` |
+| Supervision, contracting, control of activity, duty of care on deployments | supervision, contracting, control of activity, Duty Holding, Duty Holder, EDH, SDH, ODH, DDH, letter of delegation, stop-work authority, safe system of work, SSW, 4Cs, HoE, Head of Establishment, deployment, EIH, FHP, operating risk, operational risk | `jsp-815` |
+| Competence, training, letters of delegation | competence, SQEP, training, competency assessment, letter of delegation, Annex E, safety-critical posts, workforce planning, resources, Accountable Person | `jsp-815` |
+| Equipment and infrastructure safety | equipment safety, infrastructure safety, CADMID, lifecycle, equipment safety case, platform integration, supply chain, maintenance, operating limits, SRO, design out, modification | `jsp-815` |
+| Performance, MI, incident and emergency management | performance, leading indicators, lagging indicators, cultural indicators, management information, MI, trend analysis, accident, incident, near miss, investigation, emergency response, business continuity, stakeholder engagement, anonymous reporting | `jsp-815` |
+| Assurance, audit, ISO 45001 mapping | assurance, audit, Annex H, audit manual, 1LOD, 2LOD, 3LOD, Lines of Defence, GIAA, self-assessment, annual assurance report, ISO 45001, clause mapping, enforcement action, ISO 19011 | `jsp-815` |
 
 ### Agency contexts
 | Agency | Keywords | Packs |
 |---|---|---|
+| MOD | MOD, Defence, DDSS, Defence Area, Head of Establishment, UK | `jsp-815` |
 
 ### Deliverables
 | Deliverable | Keywords | Draft | Review | Verify |
 |---|---|---|---|---|
+| Safety case outline against Element 4 | safety case outline, E4.7, structured argument, system safety, operating environment, ALARP and tolerable | `jsp-815` | `jsp-815` | `jsp-815` |
+| Element self-assessment against Expectations | Element self-assessment, Expectation, E12.3, Performance Statement, evidence, assurance level | `jsp-815` | `jsp-815` | `jsp-815` |
+| Exemption certificate request checklist | exemption certificate, ECS, Annex B, E3.5, waiver, concession, last resort, residual risk | `jsp-815` | `jsp-815` | `jsp-815` |
+| Audit plan per Annex H | audit plan, Annex H, ATL, audit programme, ISO 19011, findings, rating, follow-up | `jsp-815` | `jsp-815` | `jsp-815` |
 
 ### Licences
 | Pack | Licence |
 |---|---|
+| `jsp-815` | Open Government Licence v3.0 |
 <!-- ROUTING-MAP:END -->
 
 ## Host modes
@@ -112,6 +128,9 @@ noted and skipped; if none remain, fall back to route-only.
 - At most six packs per Topics row. At most four packs read per answer.
 - Deliverable stage chains come only from Deliverables rows; empty cells skip that stage.
 - `/ukdef` never overwrites an existing file without a yes at a gate.
+- DEF-STANs (Def Stan 00-051 unverified, Def Stan 00-970 not public), JSP 376, JSP 375, JSP 816, JSP 814, and the JSP 815 Annex G Assurance Toolkit are not in the catalogue; /ukdef names them by title and makes no claims about their content.
+- ISO 45001 text is not included; jsp-815 carries Annex F clause numbers only.
+- jsp-815 is reconstructed reference notes, not MOD guidance, and has no official status.
 
 ---
 *Orchestrator content © JG Systems Consulting Ltd. (MIT). Pack names and source titles
