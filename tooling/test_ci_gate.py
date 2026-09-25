@@ -131,11 +131,15 @@ ROUTING_MAP_PAIR = [
     ("public domain prefix", "Public Domain"),
 ]
 
-# Empty-tree constant pins (Task 5 twin values). Each literal must appear
+# Live-catalogue constant pins (Task 4 twin values). Each literal must appear
 # verbatim in validate.yml's data-invariants step AND in the named twin.
 EMPTY_TREE_PAIR = [
-    ("THRESHOLDS empty", "THRESHOLDS: dict[str, int] = {}", MAP_TWIN),
-    ("EXPECTED_NOTES_COUNT zero", "EXPECTED_NOTES_COUNT = 0", GEN_TWIN),
+    (
+        "THRESHOLDS live",
+        'THRESHOLDS: dict[str, int] = {"Safety Management Framework & Governance": 4, "Risk & Operational Control": 4, "Performance & Assurance": 2}',
+        MAP_TWIN,
+    ),
+    ("EXPECTED_NOTES_COUNT twelve", "EXPECTED_NOTES_COUNT = 12", GEN_TWIN),
     ("expected_signposts empty", "expected_signposts: list[str] = []", RULES_TWIN),
 ]
 
