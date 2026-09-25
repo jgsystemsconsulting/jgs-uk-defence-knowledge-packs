@@ -1,0 +1,12 @@
+{
+  "name": "UK Defence",
+  "description": "JG Systems Consulting catalogue of licence-vetted UK Defence knowledge-pack skills for coding agents.",
+  "owner": { "name": "JG Systems Consulting Ltd.", "url": "https://github.com/jgsystemsconsulting/jgs-uk-defence-knowledge-packs" },
+  "plugins": [
+    {
+      "name": "uk-defence",
+      "source": "./",
+      "description": "Installable UK Defence knowledge packs reconstructed from open sources."
+    }
+  ]
+}

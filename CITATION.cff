@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "UK Defence Knowledge Packs"
+version: 0.1.0
+date-released: 2026-09-24
+url: "https://github.com/jgsystemsconsulting/jgs-uk-defence-knowledge-packs"
+repository-code: "https://github.com/jgsystemsconsulting/jgs-uk-defence-knowledge-packs"
+license: MIT
+type: software
+keywords:
+  - uk-defence
+authors:
+  - name: "JG Systems Consulting Ltd"
+    website: "https://www.jgsystemsconsulting.com"
