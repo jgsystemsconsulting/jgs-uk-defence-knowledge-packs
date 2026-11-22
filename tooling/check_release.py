@@ -499,7 +499,47 @@ def check_catalogue_count(
                 f"{foot_nm[0]} packs / {foot_nm[1]} signposts but live is "
                 f"{n_live} packs / {m_live} signposts"
             )
+        mid_content, mid_signposts = parse_svg_catalogue_mid(svg_text)
+        if mid_content is None or mid_signposts is None:
+            errs.append(
+                f"[catalogue-count] {STILL_CATALOGUE_SVG} mid count cells missing "
+                f"(need Content and Signposts label nodes each followed by a digits cell)"
+            )
+        else:
+            if mid_content != n_live:
+                errs.append(
+                    f"[catalogue-count] {STILL_CATALOGUE_SVG} Content mid cell "
+                    f"{mid_content:02d} != live content packs {n_live}"
+                )
+            if mid_signposts != m_live:
+                errs.append(
+                    f"[catalogue-count] {STILL_CATALOGUE_SVG} Signposts mid cell "
+                    f"{mid_signposts:02d} != live signposts {m_live}"
+                )
     return errs
+
+
+def parse_svg_catalogue_mid(svg_text: str) -> tuple[int | None, int | None]:
+    """Return (content_cell, signposts_cell) from the mid count table of
+    still-catalogue.svg: the first all-digits text node after each of the
+    'Content' and 'Signposts' label nodes. Zero-padded cells ('03', '01')
+    parse to ints; a missing cell parses to None."""
+    texts = re.findall(r"<text\b[^>]*>(.*?)</text>", svg_text, re.I | re.S)
+    cleaned = [re.sub(r"\s+", " ", t).strip() for t in texts]
+    content: int | None = None
+    signposts: int | None = None
+    for i, t in enumerate(cleaned):
+        if content is None and t == "Content":
+            for nxt in cleaned[i + 1 : i + 3]:
+                if nxt.isdigit():
+                    content = int(nxt)
+                    break
+        elif signposts is None and t == "Signposts":
+            for nxt in cleaned[i + 1 : i + 3]:
+                if nxt.isdigit():
+                    signposts = int(nxt)
+                    break
+    return content, signposts
 
 
 # P16 catalog-live-set: live slug set vs packs/. Literals pinned in validate.yml
@@ -966,6 +1006,20 @@ def main() -> int:
         if got != expected:
             fail(errs, f"[version] {rel}: website YAML version '{got}' "
                        f"!= RELEASE-INFO '{expected}'")
+    # 4b. docs/index.html REV/version loci must carry the release version too
+    #     (masthead REV, install-prompt version, drafting-sheet REV).
+    index_html_path = ROOT / "docs" / "index.html"
+    if index_html_path.is_file():
+        idx = index_html_path.read_text(encoding="utf-8", errors="ignore")
+        rev_matches = re.findall(r"REV:\s*<span[^>]*>([0-9]+\.[0-9]+\.[0-9]+)</span>", idx)
+        ver_matches = re.findall(r"\(version ([0-9]+\.[0-9]+\.[0-9]+)\)", idx)
+        if len(rev_matches) < 2 or len(ver_matches) < 1:
+            fail(errs, f"[version] docs/index.html: expected >=2 REV loci and >=1 "
+                       f"(version x.y.z) locus; found {len(rev_matches)}/{len(ver_matches)}")
+        for i, got in enumerate(rev_matches + ver_matches):
+            if got != expected:
+                fail(errs, f"[version] docs/index.html locus #{i + 1}: '{got}' "
+                           f"!= RELEASE-INFO '{expected}'")
     distinct = {v for v in versions.values() if v}
     if len(distinct) > 1 or "" in versions.values():
         fail(errs, f"[version] disagreement / missing: {versions}")
