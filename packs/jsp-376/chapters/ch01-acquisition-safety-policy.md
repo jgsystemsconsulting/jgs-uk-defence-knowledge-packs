@@ -60,6 +60,6 @@ JSP 376 is Defence-level, pan-domain policy that draws JSP 815 and acquisition p
 
 JSP 376 is published as a single part: directive content and guidance are combined rather than split into volumes. The preface fixes the meaning of three operative terms, and the rest of this pack depends on that wording. The preface definition, quoted from paragraph 2 of printed page ii:
 
-> Where this policy says must, the action is a binding duty on the named role. Where the term 'must make sure' is used, someone else may do the work, yet the named role stays answerable for the acts. Where this policy says should, the action is advised practice rather than a binding duty.
+> Where this policy says must, the action is a binding duty on the named role. Where the term 'owns the duty that' is used, someone else may do the work, yet the named role stays answerable for the acts. Where this policy says should, the action is advised practice rather than a binding duty.
 
 In short: `must` binds the named actioner, `owns the duty that` allows the work to be delivered by someone else while accountability stays with the actioner, and `should` marks advised practice. This pack uses the three words the same way.
