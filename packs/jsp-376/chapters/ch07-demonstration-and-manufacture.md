@@ -6,7 +6,7 @@ Sources: JSP 376 Defence Acquisition Safety Policy V1.1, printed body pp. 38-43,
 
 The source states the Demonstration policy in one sentence, quoted here from the key policy statement:
 
-> In Demonstration, the SRO owns the duty that proof is gathered to show that that safety needs will stay met, plus safety hazards will stay reduced toward a degree that remains ALARP plus Tolerable if the asset is scheduled to to enter service.
+> In Demonstration, the SRO owns the duty to gather proof that safety needs will be met and leftover risk will sit at ALARP and accepted-as-tolerable by the planned in-service date.
 
 ## Evidence and design change in Demonstration
 
@@ -28,7 +28,7 @@ The safety case is continually developed, and User involvement grows as T&E evid
 
 The source states the Manufacture policy in one sentence, quoted here from the key policy statement:
 
-> In Manufacture, the SRO owns the duty that that capability remains delivered toward the criteria required, plus that that User remains satisfied upon handover which the leftover safety hazards have was reduced toward an ALARP and Accepted as tolerable level.
+> In Manufacture, the SRO owns the duty that the asset meets the agreed criteria and that, at transfer, the User is content leftover risk sits at ALARP and accepted-as-tolerable.
 
 ## Production, handover, and the In-Service Date
 

@@ -24,7 +24,7 @@ Use this skill for questions about how UK Defence mandates and runs Human Factor
 
 ### What HFI is (Part 1, echoed in Part 2)
 
-HFI is a management activity: a ordered method for finding, following, and settling people-related considerations so the technological and human aspects of capability develop in balance. Human Factors is the science, Human Factors Engineering is its design application, and HFI is the management process over both, organised through five domains: Personnel, Training, Human Factors Engineering, System Safety & Health Hazards, and Organisational & Social. MOD policy applies HFI to every defence acquisition activity, Development Item, Non-Development Item, Off-The-Shelf, demonstrators and upgrades alike, with scope set by risk, not exemption.
+HFI is a management activity: an ordered method for finding, following, and settling people-related considerations so the technological and human aspects of capability develop in balance. Human Factors is the science, Human Factors Engineering is its design application, and HFI is the management process over both, organised through five domains: Personnel, Training, Human Factors Engineering, System Safety & Health Hazards, and Organisational & Social. MOD policy applies HFI to every defence acquisition activity, Development Item, Non-Development Item, Off-The-Shelf, demonstrators and upgrades alike, with scope set by risk, not exemption.
 
 ### Six stage gates across the lifecycle (Part 2)
 

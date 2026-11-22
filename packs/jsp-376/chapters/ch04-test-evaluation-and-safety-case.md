@@ -6,7 +6,7 @@ Sources: JSP 376 Defence Acquisition Safety Policy V1.1, printed body pp. 18-22,
 
 The source states the test and evaluation policy in one sentence, quoted here from the T&E key policy statement:
 
-> The SRO/User owns the duty that that required safety Test & Assessment (T&E) activity remains included within, and handed over through, that Integrated Trial, Evaluation plus Acceptance Scheme (ITEAP) to provide factual evidence toward support that assessment for meeting that programme safety requirements.
+> The SRO/User owns the duty that the required safety T&E work sits inside the ITEAP and is actually run, so factual proof backs the claim that programme safety needs are met.
 
 ## Why test and evaluation matters
 
@@ -22,13 +22,13 @@ The SRO determines which elements of the programme need certification, liaises w
 
 The source states the safety case policy in one sentence, quoted here from the Safety Case key policy statement:
 
-> The SRO/User owns the duty that one evidence-grounded Safety Case (SC), backing the claim that one capability remains safe, remains developed plus maintained.
+> The SRO/User owns the duty to build and keep an evidence-based Safety Case (SC) that backs the claim the asset is safe.
 
 ## What a safety case is
 
 JSP 376 defines the safety case as follows:
 
-> A ordered safety claim, backed by proof that provides a clear, readable, and sound case that a system is safe for a given application in a given operating environment.
+> A structured safety argument, backed by proof, that makes a clear, readable, and sound case that a system is safe for a given application in a given operating environment.
 
 The source's footnote points at Defence Standard 00-056 for the definition of a system and for further product-level detail. The standard is named here and not quoted.
 

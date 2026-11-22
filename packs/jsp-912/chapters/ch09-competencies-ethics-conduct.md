@@ -6,7 +6,7 @@ Sources: JSP 912 Part 1 V3.0, printed body p. 9 (HFI Resource Competencies), and
 
 Every member of MOD staff who undertakes HFI activities must be a Suitably Qualified and Experienced Person, defined by reference to the Human Factors Integration Functional Competence Framework. The same rule binds industry: a Solution Provider is to have all of its HFI activities carried out by SQEP, meaning professional Ergonomists or Human Factors Engineers, and/or people with considerable experience of HFI work in a Defence context. Part 1 section 4 states the directive version and Part 2 section 6 restates it as guidance, with the same named roles and thresholds; where the two parts phrase a threshold slightly differently, this chapter follows the wording of the part indicated in the Sources line above.
 
-The competence ladder matters as much as the rule. The framework separates an Awareness level, meaning a rounded understanding of what the HFI process exists to do and why, enough to contribute appropriate input and take part in reviews, from a Practitioner level, meaning enough knowledge of good practice plus demonstrated experience to work on tasks with little more than light supervision while keeping knowledge current.
+The competence ladder matters as much as the rule. The framework separates an Awareness level, meaning a rounded understanding of what the HFI process exists to do and why, enough to contribute appropriate input and take part in reviews, from a Practitioner level, meaning enough knowledge of good practice and demonstrated experience to work on tasks with little more than light supervision while keeping knowledge current.
 
 ## Frameworks Introduced
 

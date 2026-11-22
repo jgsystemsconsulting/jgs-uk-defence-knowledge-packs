@@ -6,7 +6,7 @@ Sources: JSP 376 Defence Acquisition Safety Policy V1.1, printed body pp. 11-17,
 
 The source states the safety management policy in one sentence, quoted here from the Safety Management key policy statement:
 
-> The SRO/User owns the duty that a Safety Management Plan (SMP) is stood up to describe how they intend a capability to be entered into service, run, and retired without undue harm, in accordance with the owning organisation Safety Management System (SMS).
+> The SRO/User owns the duty that a Safety Management Plan (SMP) is stood up to set out how the asset will enter service, run, and retire without undue harm, aligned to the owning organisation's Safety Management System (SMS).
 
 ## Plan-Do-Check-Act
 
@@ -30,13 +30,13 @@ SRO and User engage with each other early, and keep engaging across service life
 
 ## Digital engineering, quality, and information
 
-Digital tools such as digital twins, live data feeds, and digital safety cases should be actively considered, agreed early with the relevant authorities such as certification bodies, and still produce an evidence-based argument. Quality and safety are linked: JSP 940 requires proportionate processes that assure the quality of products, services, and systems, with attention to safety-critical ones. Safety information has to be managed across service life, or the safety case is undermined: evidence must be accessible when required, and residual-risk information must stay current for the people who need it. The SMP defines what information sustains the safety case and how it is managed, in line with with JSP 441, JSP 375 Volume 1 Chapter 39, plus relevant Defence safety regulations.
+Digital tools such as digital twins, live data feeds, and digital safety cases should be actively considered, agreed early with the relevant authorities such as certification bodies, and still produce an evidence-based argument. Quality and safety are linked: JSP 940 requires proportionate processes that assure the quality of products, services, and systems, with attention to safety-critical ones. Safety information has to be managed across service life, or the safety case is undermined: evidence must be accessible when required, and residual-risk information must stay current for the people who need it. The SMP defines what information sustains the safety case and how it is managed, following the records rules in JSP 441, JSP 375 Volume 1 Chapter 39, and the relevant Defence safety regulations.
 
 ## The safety requirements key policy statement
 
 The source states the safety requirements policy in one sentence, quoted here from the Safety Requirements key policy statement:
 
-> The SRO owns the duty that that User Needs Document (URD) captures every safety Operator Requirements (URs) and shows the need for for that capability toward be both 'safe toward operate' plus 'operated without undue harm' for one given job in one given ops environment.
+> The SRO owns the duty that the User Requirements Document (URD) records every safety User Requirement (UR) and shows the asset must stay safe under intended use and when crews use it, for the stated job and operating environment.
 
 ## How safety requirements flow
 

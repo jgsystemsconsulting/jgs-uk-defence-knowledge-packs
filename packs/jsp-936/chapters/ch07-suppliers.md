@@ -22,7 +22,7 @@ Foreign export controls enter the risk picture too: assessment of restrictions s
 
 ## Mental Models
 
-- Same confidence, new evidence path: the bar for an externally acquired AI equals the in-house bar; what changes is how the evidence is demanded and produced, contractually.
+- Same confidence, new evidence path: the bar for externally acquired AI matches the in-house bar; what changes is how evidence is demanded and produced under the contract.
 - The supplier is inside the governance chain: context, policy and operational knowledge are transfer duties, not courtesies, because an AI built without them cannot meet the directive's context-appropriate requirements.
 - Freedom of action is an assurance property: an AI you cannot legally maintain or retrain abroad is not dependable in the directive's sense, whatever its technical performance.
 

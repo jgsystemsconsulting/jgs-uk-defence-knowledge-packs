@@ -6,7 +6,7 @@ Sources: JSP 376 Defence Acquisition Safety Policy V1.1, printed body pp. 44-50,
 
 The source states the in-service policy in one sentence, quoted here from the key policy statement:
 
-> In-service, the User owns the duty that that capability remains operated within accordance alongside the hazard-controlled operating envelope and which the safety risks stay ALARP plus Tolerable.
+> In-service, the User owns the duty that crews stay inside the safe operating envelope and that leftover risk stays ALARP and accepted-as-tolerable.
 
 ## How the emphasis changes
 
@@ -28,7 +28,7 @@ Certification is maintained across service life. A modification can force full o
 
 The safety case is maintained across service life. Periodic reviews run at an interval the User sets and the SMP records, based on risk and no longer than every 2 years, each producing a signed in-service safety case report. Other occasions also trigger a review: a change in operating context; in-service design change or configuration drift away from the safety case; change from any contributing DLOD; transfer to a different operating authority; change to legislation, regulation, policy, or standards; a material change to the underlying safety argument; a major change made to the Statement of Operating Intent and Usage; any significant continuing safety concern, or a gap between actual performance and design intent; an accident or major incident, or the approach of return to service; a new higher-risk activity; a new technology recognised as good practice; or plans to change the Out of Service Date. On each occasion the User runs a pan-DLOD review, updates the safety case, signs a report, and holds the change back until the arrangements support an ALARP and accepted-as-tolerable judgement; temporary restrictions on use are one way to hold that line. Before the Out of Service Date the User signs an OSD safety case report covering the main equipment, supporting systems (simulators, for example), and spare parts, and shares it with the ASC if a submission is needed.
 
-Operation stays inside the safe operating envelope, with each event risk-assessed. Temporary operation outside the envelope, on operations for example, needs a risk assessment accepted at the appropriate level, under JSP 815 Element 4 Expectation 4.3, which is named here and not restated. If the capability must permanently operate outside the envelope, that calls for a full safety case review plus enduring arrangements, not a standing waiver.
+Operation stays inside the safe operating envelope, with each event risk-assessed. Temporary operation outside the envelope, on operations for example, needs a risk assessment accepted at the appropriate level, under JSP 815 Element 4 Expectation 4.3, which is named here and not restated. If the capability must permanently operate outside the envelope, that calls for a full safety case review and enduring arrangements, not a standing waiver.
 
 ## The disposal key policy statement
 

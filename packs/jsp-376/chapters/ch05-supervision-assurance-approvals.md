@@ -6,7 +6,7 @@ Sources: JSP 376 Defence Acquisition Safety Policy V1.1, printed body pp. 23-27,
 
 The source states the supervision policy in one sentence, quoted here from the Supervision key policy statement:
 
-> The SRO/User owns the duty that that safety hazards associated alongside all work using that military asset are evaluated and control measures remain implemented to cut that residual safety risks toward a degree that remains ALARP plus Tolerable.
+> The SRO/User owns the duty to assess harm linked to every use of the Defence asset and to apply controls until leftover risk sits at ALARP and is accepted as tolerable.
 
 ## Supervision in practice
 
@@ -22,7 +22,7 @@ The source sets out three assurance key policy statements, quoted here as they a
 
 > Dir DS stands up separate review and counsel for MOD Head Office approvers at main decision junctures.
 
-> Heads of Defence bodies owns the duty that arrangements are set in place to provide assigned Approving Authorities with separate analysis and advice for programme safety in aid of main programme choice points.
+> Heads of Defence bodies own the duty to stand up matching independent review for their delegated Approving Authorities at main programme decision points.
 
 ## The three lines of defence
 

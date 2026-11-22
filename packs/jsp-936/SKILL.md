@@ -36,7 +36,7 @@ Every TLB appoints a Responsible AI Senior Officer; every AI project identifies 
 
 ### Lifecycle-agnostic duties, honestly limited
 
-The directive mandates no particular lifecycle. Instead it sets stage duties that survive any process: controlled planning that names how ethics are met, hazard analysis that feeds system safety, data provenance and separation, risk-informed model reuse, verification across the operating envelope plus demonstrated safe behaviour outside it, and monitoring that keeps deployed AI inside its approved bounds. Where ML traceability breaks at the low-level requirement stage, the directive demands the loss be met with recorded risk-balance arguments and demonstration against intent, not ignored.
+The directive mandates no particular lifecycle. Instead it sets stage duties that survive any process: controlled planning that names how ethics are met, hazard analysis that feeds system safety, data provenance and separation, risk-informed model reuse, verification across the operating envelope and demonstrated safe behaviour outside it, and monitoring that keeps deployed AI inside its approved bounds. Where ML traceability breaks at the low-level requirement stage, the directive demands the loss be met with recorded risk-balance arguments and demonstration against intent, not ignored.
 
 ## Chapter Index
 
