@@ -44,3 +44,22 @@ The build pipeline uses the jgs-reference-skill extraction engine (MIT License,
 © JG Systems Consulting Ltd; a fork of book-to-skill, © the book-to-skill authors).
 It is a build tool, not a packaged source.
 -----------------------------------------------------------------------------------
+[pack: jsp-375]
+
+Source : JSP 375 Management of Health and Safety in Defence, Directive & Guidance
+Version 1.7 (06 February 2025), plus Volume 1 arrangements chapters and
+Volume 3 high-risk estate activities from the GOV.UK JSP 375 collection
+attachment set pinned 2026-11-22. Source links in packs/jsp-375/LICENSE.
+Author : Ministry of Defence (Director Defence Safety). © Crown copyright.
+Licence: Open Government Licence v3.0
+Changes: reconstructed as synthesized reference notes (not reproduction)
+Terms : see packs/jsp-375/LICENSE
+[pack: jsp-816]
+
+Source : JSP 816 Defence Environmental Management System (EMS) Framework
+V1.2 Dec 24, Elements 1-12 V2.1 Dec 24, Element 12 Annex A toolkit.
+Source links in packs/jsp-816/LICENSE.
+Author : Ministry of Defence (Director Climate Change and Environment). © Crown copyright.
+Licence: Open Government Licence v3.0
+Changes: reconstructed as synthesized reference notes (not reproduction)
+Terms : see packs/jsp-816/LICENSE

@@ -1,0 +1,66 @@
+jsp-375 pack: content licence
+=============================
+
+1. Attribution statement
+
+Contains public sector information licensed under the Open Government
+Licence v3.0.
+
+2. Source identification
+
+Source: JSP 375: Management of Health and Safety in Defence, Directive &
+Guidance Version 1.7 (06 February 2025), together with Volume 1 arrangements
+chapters and Volume 3 high-risk activities on the defence estate chapters
+from the GOV.UK JSP 375 collection attachment set used for this build,
+Ministry of Defence (Director Defence Safety), © Crown copyright.
+
+3. Source links
+
+Collection page:
+https://www.gov.uk/government/collections/jsp-375-health-and-safety-handbook
+Directive publication page (Volume 1 handbook entry hosting Directive PDF):
+https://www.gov.uk/government/publications/jsp-375-health-and-safety-handbook-volume-1
+Arrangements (Volume 1 chapters) publication page:
+https://www.gov.uk/government/publications/jsp-375-health-and-safety-handbook-volume-2
+Volume 3 publication page:
+https://www.gov.uk/government/publications/jsp-375-health-and-safety-handbook-volume-3
+
+Publication pages carry the gov.uk footer sentence: "All content is
+available under the Open Government Licence v3.0, except where otherwise
+stated" (pages fetched 2026-11-22).
+
+4. Licence
+
+Open Government Licence v3.0:
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+5. Nature of this pack
+
+This pack contains reconstructed reference notes, not reproductions.
+Content was restructured and summarised from the source; passages are
+paraphrased except short defined terms.
+
+6. Non-endorsement
+
+Nothing in this pack suggests that the Ministry of Defence endorses it or
+that it has any official status.
+
+7. Excluded material
+
+- MOD crests and logos, and military insignia.
+- Verbatim safety rule-book procedure dumps from Volume 3 person-in-charge books.
+- MOD form field templates (forms cited by title/role only).
+
+8. Scope
+
+This licence governs the content of this pack (SKILL.md, chapters/,
+glossary.md, cheatsheet.md, patterns.md). The repository's MIT licence
+covers tooling and scaffolding only.
+
+9. Per-source record (summary)
+
+Directive V1.7 PDF — ch01, ch02
+Volume 1 topic chapter PDFs — ch03-ch09 (clustered)
+Volume 3 chapter PDFs — ch10
+INPUT_PATHS for extract were local temp paths under
+AppData/Local/Temp/jsp-375-816-src/jsp-375/ (not committed).

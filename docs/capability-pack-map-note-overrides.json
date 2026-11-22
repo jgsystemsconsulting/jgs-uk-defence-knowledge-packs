@@ -72,6 +72,141 @@
       "pack": "jsp-815",
       "chapter": "patterns.md",
       "note": "Support file: techniques already stated in the jsp-815 chapters present in this commit"
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch01-ems-framework-purpose-and-authority.md",
+      "note": "EMS Framework purpose, SofS authority, jurisdiction."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch02-ems-structure-pdca-and-assurance-stages.md",
+      "note": "PDCA, 12 Elements hierarchy, ISO 14001 alignment claim, assurance stages."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch03-leadership-governance-organisation.md",
+      "note": "E1 leadership/culture and E2 organisation/dependencies."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch04-legislation-policy-exemptions.md",
+      "note": "E3 legislation, policy, exemptions/disapplications."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch05-aspects-risk-impact-opportunities.md",
+      "note": "E4 aspects, risk/impact, opportunities, environmental cases."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch06-ems-supervision-contracting-control.md",
+      "note": "E5 supervision, BPEO, stop-work, contracting control."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch07-competence-resources-training.md",
+      "note": "E6 competence, resources, training."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch08-ems-equipment-and-infrastructure.md",
+      "note": "E7-E8 equipment and infrastructure lifecycle EP."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch09-performance-incidents-communications.md",
+      "note": "E9-E11 performance MI, incidents, stakeholders."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch10-assurance-lines-of-defence.md",
+      "note": "E12 three lines of defence assurance."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch11-ep-self-assessment-toolkit.md",
+      "note": "Element 12 Annex A EP self-assessment toolkit method."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "glossary.md",
+      "note": "EMS terms glossary (support)."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "cheatsheet.md",
+      "note": "Element routing cheatsheet (support)."
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "patterns.md",
+      "note": "EMS stand-up and assurance patterns (support)."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch01-directive-structure-and-use.md",
+      "note": "JSP 375 handbook structure, ownership, Directive/Guidance."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch02-scope-assurance-amc-coherence.md",
+      "note": "Scope, alternative AMC, assurance via JSP 815, coherence."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch03-risk-assessment-and-safe-systems-of-work.md",
+      "note": "Vol 1 Ch 8 risk assessment and safe systems of work."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch04-workplace-basics-emergency-first-aid-inspections.md",
+      "note": "Workplace basics: emergency, inspections, first aid, traffic."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch05-hazardous-substances-dsear-asbestos-legionella.md",
+      "note": "Hazardous substances, DSEAR, asbestos, legionella."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch06-physical-hazards-equipment-energy.md",
+      "note": "Physical/energy hazards, PTW, confined spaces, height."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch07-people-factors-oh-ppe-vulnerable-groups.md",
+      "note": "OH surveillance, PPE/RPE, stress, vulnerable groups, DSE."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch08-contractors-change-occurrences-records.md",
+      "note": "4Cs contractors, MoC, occurrence reporting, records."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch09-military-training-heat-cold-force-health.md",
+      "note": "Military training, heat/cold injury, force health protection."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch10-volume3-high-risk-estate-activities.md",
+      "note": "Volume 3 high-risk estate activities overview."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "glossary.md",
+      "note": "JSP 375 terms glossary (support)."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "cheatsheet.md",
+      "note": "Topic routing cheatsheet (support)."
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "patterns.md",
+      "note": "Directive-first and 4Cs patterns (support)."
     }
   ]
 }

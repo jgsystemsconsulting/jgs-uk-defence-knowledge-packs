@@ -105,6 +105,168 @@
       "chapter": "patterns.md",
       "cluster": "Safety Management Framework & Governance",
       "is_support": true
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch01-ems-framework-purpose-and-authority.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch02-ems-structure-pdca-and-assurance-stages.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch03-leadership-governance-organisation.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch04-legislation-policy-exemptions.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch05-aspects-risk-impact-opportunities.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch06-ems-supervision-contracting-control.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch07-competence-resources-training.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch08-ems-equipment-and-infrastructure.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch09-performance-incidents-communications.md",
+      "cluster": "Performance & Assurance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch10-assurance-lines-of-defence.md",
+      "cluster": "Performance & Assurance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "ch11-ep-self-assessment-toolkit.md",
+      "cluster": "Performance & Assurance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "glossary.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": true
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "cheatsheet.md",
+      "cluster": "Performance & Assurance",
+      "is_support": true
+    },
+    {
+      "pack": "jsp-816",
+      "chapter": "patterns.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": true
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch01-directive-structure-and-use.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch02-scope-assurance-amc-coherence.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch03-risk-assessment-and-safe-systems-of-work.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch04-workplace-basics-emergency-first-aid-inspections.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch05-hazardous-substances-dsear-asbestos-legionella.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch06-physical-hazards-equipment-energy.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch07-people-factors-oh-ppe-vulnerable-groups.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch08-contractors-change-occurrences-records.md",
+      "cluster": "Performance & Assurance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch09-military-training-heat-cold-force-health.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "ch10-volume3-high-risk-estate-activities.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "glossary.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": true
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "cheatsheet.md",
+      "cluster": "Performance & Assurance",
+      "is_support": true
+    },
+    {
+      "pack": "jsp-375",
+      "chapter": "patterns.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": true
     }
   ]
 }

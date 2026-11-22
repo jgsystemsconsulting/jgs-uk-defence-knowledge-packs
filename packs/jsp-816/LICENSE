@@ -1,0 +1,57 @@
+jsp-816 pack: content licence
+=============================
+
+1. Attribution statement
+
+Contains public sector information licensed under the Open Government
+Licence v3.0.
+
+2. Source identification
+
+Source: JSP 816: Defence Environmental Management System (EMS) Framework
+V1.2 Dec 24, with Elements 1-12 (V2.1 Dec 24) and Element 12 Annex A
+Environmental Protection Self-Assessment Toolkit, Ministry of Defence
+(Director Climate Change and Environment), © Crown copyright.
+
+3. Source links
+
+Publication page:
+https://www.gov.uk/government/publications/defence-environmental-management-system-framework-jsp-816
+
+Publication page carries the gov.uk footer sentence: "All content is
+available under the Open Government Licence v3.0, except where otherwise
+stated" (page fetched 2026-11-22).
+
+4. Licence
+
+Open Government Licence v3.0:
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+5. Nature of this pack
+
+This pack contains reconstructed reference notes, not reproductions.
+Content was restructured and summarised from the source; passages are
+paraphrased except short defined terms.
+
+6. Non-endorsement
+
+Nothing in this pack suggests that the Ministry of Defence endorses it or
+that it has any official status.
+
+7. Excluded material
+
+- ISO 14001:2015 standard text (Framework alignment claim only; no ISO clauses).
+- MOD crests and logos, and military insignia.
+- Spreadsheet cell values/macros from Annex A toolkit files.
+
+8. Scope
+
+This licence governs the content of this pack (SKILL.md, chapters/,
+glossary.md, cheatsheet.md, patterns.md). The repository's MIT licence
+covers tooling and scaffolding only.
+
+9. Per-source record
+
+Framework PDF: JSP816_EMS_Framework.pdf — used in ch01, ch02
+Element 1-12 PDFs: JSP816_Element1.pdf … JSP816_Element12.pdf — used in ch03-ch10
+Annex A toolkit ODS/XLSX — method described in ch11 (no cell dump)

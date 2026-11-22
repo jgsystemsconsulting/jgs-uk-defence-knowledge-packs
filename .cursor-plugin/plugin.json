@@ -15,7 +15,10 @@
     "agent-skills",
     "mod",
     "jsp-815",
-    "safety-management"
+    "safety-management",
+    "jsp-375",
+    "jsp-816",
+    "environmental-management"
   ],
   "category": "developer-tools",
   "tags": [
@@ -25,6 +28,8 @@
   ],
   "skills": [
     "./packs/ukdef/SKILL.md",
-    "./packs/jsp-815/SKILL.md"
+    "./packs/jsp-815/SKILL.md",
+    "./packs/jsp-375/SKILL.md",
+    "./packs/jsp-816/SKILL.md"
   ]
 }

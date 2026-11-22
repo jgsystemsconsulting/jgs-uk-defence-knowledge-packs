@@ -16,6 +16,28 @@
       "commercial_use": true,
       "chapters": 11,
       "status": "live"
+    },
+    {
+      "slug": "jsp-375",
+      "title": "JSP 375: Management of Health and Safety in Defence (Directive and Guidance)",
+      "publisher": "Ministry of Defence (Director Defence Safety); reconstructed by JG Systems Consulting Ltd",
+      "source_version": "JSP 375 V1.7 Feb 2025 Directive & Guidance; Volume 1 arrangements chapters; Volume 3 high-risk estate activities; pinned 2026-11-22",
+      "license": "Open Government Licence v3.0",
+      "license_tier": 2,
+      "commercial_use": true,
+      "chapters": 10,
+      "status": "live"
+    },
+    {
+      "slug": "jsp-816",
+      "title": "JSP 816: Defence Environmental Management System (EMS) Framework",
+      "publisher": "Ministry of Defence (Director Climate Change and Environment); reconstructed by JG Systems Consulting Ltd",
+      "source_version": "JSP 816 V1.2 Dec 24 Framework; Elements 1-12 V2.1 Dec 24; Element 12 Annex A toolkit; pinned 2026-11-22",
+      "license": "Open Government Licence v3.0",
+      "license_tier": 2,
+      "commercial_use": true,
+      "chapters": 11,
+      "status": "live"
     }
   ],
   "planned": [
