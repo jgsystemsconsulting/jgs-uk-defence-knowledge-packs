@@ -101,7 +101,7 @@ Where compliance with safety legislation cannot be achieved, an exemption certif
 ## Scope & Limits
 - **Source versions:** JSP 815 V1.3 (Framework, Elements 1 to 12, Annexes A to G) and Annex H V1.2, published 2026-09-01. Built from the 20 published PDF attachments plus the Annex G ODS; page provenance is in [LICENSE](LICENSE).
 - **Not in this pack:** JSP 376 remains a separate publication not moved here. Neighbouring packs `jsp-375` and `jsp-816` are in this catalogue as their own content packs; this pack names them by slug where ch01 maps related publications and makes no claims about those sources beyond relationship sentences in JSP 815. DEF-STAN 00-051 is a recorded exclusion (unreachable cover) and DEF-STAN 00-970 is not public; neither appears here. Annex G (Assurance Toolkit spreadsheet) is folded as ch11.
-- **ISO 45001:** clause numbers only, via the Annex F mapping. No ISO text is included.
+- **ISO 45001:** clause numbers only, via the Annex F mapping. No ISO text is included. Neighbouring signpost `iso-45001-signpost` covers identification and catalogue location; this pack makes no claims about that source beyond the clause-number mapping already carried here.
 - **Fidelity:** Performance Statements are summarised as themes; Expectation wording is paraphrased except short defined terms. Chapters cite the attachment rows and paragraph or Expectation numbers behind each claim.
 - **Status:** this pack is not MOD guidance and has no official status; nothing in it suggests Ministry of Defence endorsement.
 - **No external links:** source and licence links live only in [LICENSE](LICENSE).

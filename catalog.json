@@ -40,15 +40,5 @@
       "status": "live"
     }
   ],
-  "planned": [
-    {
-      "slug": "iso-45001-signpost",
-      "title": "ISO 45001 (citation only; no standard text)",
-      "publisher": "JG Systems Consulting Ltd.",
-      "license": "MIT",
-      "license_tier": 2,
-      "commercial_use": true,
-      "status": "planned"
-    }
-  ]
+  "planned": []
 }

@@ -1,0 +1,14 @@
+slug: iso-45001-signpost
+kind: signpost
+title: "ISO 45001 Signpost (citation pointers only)"
+publisher: "JG Systems Consulting Ltd."
+license: "MIT"
+license_tier: 2
+commercial_use: true
+notes: >
+  Signpost, NOT a knowledge pack. Contains zero ISO text: only designation,
+  title, owner, redistributability status, and official catalogue URL.
+  Source is Excluded under docs/SOURCE-VETTING.md (ISO 45001 text quoted in
+  JSP 815 Annex F is third-party material outside Open Government Licence;
+  paywalled ISO standard, no redistribution grant). Content is original
+  (MIT, JG Systems Consulting Ltd.). Trademarks named for identification only.
