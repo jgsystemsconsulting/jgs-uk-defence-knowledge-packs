@@ -43,7 +43,7 @@ packs/<slug>/
 
 ## Scope and Limits rules
 
-A content pack's Scope and Limits names neighbouring pack in repo, slug, chapter index or scope section mentions neighbour's source, and states that this pack makes no claims about source. signpost named same way pack cites excluded standard signpost covers. rule does not require naming packs in other sectors. Ownership source document lives in docs/CROSS-PACK-BOUNDARIES.md. Apply rule jsp-815 and ukdef in same commit new neighbour, not before neighbour exists. Until then, current "not in catalogue" sentence stays true.
+A content pack's Scope and Limits names each neighbouring pack in this repo, by slug, when the chapter index or the scope section mentions that neighbour's source, and states that this pack makes no claims about that source. A signpost is named the same way when the pack cites an excluded standard the signpost covers. The rule does not require naming packs in other sectors. Ownership of a source document lives in docs/CROSS-PACK-BOUNDARIES.md. Apply the rule to jsp-815 and ukdef in the same commit as the new neighbour, not before the neighbour exists. Until then, the current "not in this catalogue" sentence stays true.
 
 ## Chapter file rules
 
