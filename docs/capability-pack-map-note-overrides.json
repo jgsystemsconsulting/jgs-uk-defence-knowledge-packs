@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "map_version": "0.1.0",
-  "generated_on": "2026-09-25",
+  "generated_on": "2026-11-22",
   "notes": [
     {
       "pack": "jsp-815",
@@ -62,6 +62,16 @@
       "pack": "jsp-815",
       "chapter": "cheatsheet.md",
       "note": "Cross-chapter decision checklists, all 72 Expectations, exemption steps, safety-case triggers, and audit cycle"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "ch11-assurance-self-assessment-toolkit.md",
+      "note": "Annex G Assurance Self-Assessment Toolkit method, scoring bands, and document-list aides for 1LOD self-assessment"
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "patterns.md",
+      "note": "Support file: techniques already stated in the jsp-815 chapters present in this commit"
     }
   ]
 }

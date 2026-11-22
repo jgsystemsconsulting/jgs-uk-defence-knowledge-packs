@@ -1,6 +1,6 @@
 ---
 name: jsp-815
-description: "Knowledge pack reconstructed from JSP 815 Defence Safety Management System V1.3 (Ministry of Defence, Open Government Licence v3.0): the SMS Framework, all 12 Elements with their Expectations and Performance Statement themes, and Annexes A to F plus H. Covers the Defence Safety Function and which JSP applies, leadership and safety culture, organisation and SEMS applicability, legislation and exemption certificates, risk assessment and safety cases, supervision and contracting, competence and letters of delegation, equipment and infrastructure safety, performance and incident management, and assurance, audit, and the ISO 45001 clause mapping. SCOPE LIMITS: single-source (JSP 815 V1.3 with Annex H V1.2); carries no DEF-STAN 00-051 or DEF-STAN 00-970 content, no JSP 376, JSP 375, JSP 816, no Annex G (Assurance Toolkit), and no ISO 45001 text (clause numbers only). This pack is reconstructed reference notes, not MOD guidance, and has no official status."
+description: "Knowledge pack reconstructed from JSP 815 Defence Safety Management System V1.3 (Ministry of Defence, Open Government Licence v3.0): the SMS Framework, all 12 Elements with their Expectations and Performance Statement themes, and Annexes A to F plus H. Covers the Defence Safety Function and which JSP applies, leadership and safety culture, organisation and SEMS applicability, legislation and exemption certificates, risk assessment and safety cases, supervision and contracting, competence and letters of delegation, equipment and infrastructure safety, performance and incident management, and assurance, audit, and the ISO 45001 clause mapping. SCOPE LIMITS: single-source (JSP 815 V1.3 with Annexes A-G and Annex H V1.2); carries no DEF-STAN 00-051 or DEF-STAN 00-970 content, no JSP 376, JSP 375, JSP 816, and no ISO 45001 text (clause numbers only); Annex G Assurance Toolkit folded as ch11. This pack is reconstructed reference notes, not MOD guidance, and has no official status."
 ---
 
 <!-- argument-hint: [JSP 815 topic, Element or Expectation number, or Defence safety question] -->
@@ -10,7 +10,7 @@ description: "Knowledge pack reconstructed from JSP 815 Defence Safety Managemen
 ## When to use
 **Prerequisites:** none: plain Markdown. Familiarity with basic risk vocabulary (hazard, risk, ALARP, assurance) helps; the glossary defines the Defence-specific terms.
 
-Use this skill for questions about how the UK Ministry of Defence manages safety: which JSP answers which need, how a Defence Area structures its safety management arrangements, what the 12 Elements and their Expectations require, when a safety case is needed, how exemption certificates work, how competence and delegation are controlled, how equipment and infrastructure safety is organised, and how assurance and audit are conducted. It is a single-source pack: everything in it derives from JSP 815 V1.3 (2026-09-01) and its Annexes A to F and H.
+Use this skill for questions about how the UK Ministry of Defence manages safety: which JSP answers which need, how a Defence Area structures its safety management arrangements, what the 12 Elements and their Expectations require, when a safety case is needed, how exemption certificates work, how competence and delegation are controlled, how equipment and infrastructure safety is organised, and how assurance and audit are conducted. It is a single-source pack: everything in it derives from JSP 815 V1.3 (2026-09-01) and its Annexes A to G and H.
 
 **Source:** Contains public sector information licensed under the Open Government Licence v3.0. JSP 815 Defence Safety Management System V1.3 (Annex H V1.2), Ministry of Defence, © Crown copyright. Reconstructed reference notes; licence and source links in [LICENSE](LICENSE).
 
@@ -69,35 +69,38 @@ Where compliance with safety legislation cannot be achieved, an exemption certif
 | 08 | [ch08-equipment-and-infrastructure.md](chapters/ch08-equipment-and-infrastructure.md) | E7, E8 | 35 | Equipment design, manufacture, maintenance; infrastructure design, build, maintenance. |
 | 09 | [ch09-performance-incidents-communication.md](chapters/ch09-performance-incidents-communication.md) | E9, E10, E11 | 39 | Performance and management information; accident and incident management, emergency response; communications and stakeholder engagement. |
 | 10 | [ch10-assurance-and-audit.md](chapters/ch10-assurance-and-audit.md) | E12, AF, AH | 73 | Assurance, JSP 815 to ISO 45001 clause-number mapping (numbers only), audit manual method. |
+| 11 | [ch11-assurance-self-assessment-toolkit.md](chapters/ch11-assurance-self-assessment-toolkit.md) | AG | spreadsheet | Annex G Assurance Self-Assessment Toolkit method, scoring, document lists. |
 
 ## Topic Index
-- Assurance and audit → ch10
-- Communications and stakeholder engagement → ch09
-- Competence, training, letters of delegation → ch07
-- Contracting and control of activity → ch06
-- Duty of care on deployments → ch06
-- Equipment safety → ch08
-- Exemption certificates → ch04
-- Head of Establishment responsibilities → ch06
-- Incident and emergency management → ch09
-- Infrastructure safety → ch08
-- ISO 45001 mapping and alignment → ch10 (alignment claim in ch02)
-- Leadership, governance, safety culture → ch03
-- Legislation and regulators → ch04
-- Organisation and dependencies, SEMS applicability → ch03
-- Performance and management information → ch09
-- Risk assessment and safety cases → ch05
-- Safety management system structure and assurance stages → ch02
-- Supervision and duty holding → ch06
-- Which JSP applies → ch01
+- **Assurance and audit** → ch10
+- **Assurance self-assessment toolkit (Annex G)** → ch11
+- **Communications and stakeholder engagement** → ch09
+- **Competence, training, letters of delegation** → ch07
+- **Contracting and control of activity** → ch06
+- **Duty of care on deployments** → ch06
+- **Equipment safety** → ch08
+- **Exemption certificates** → ch04
+- **Head of Establishment responsibilities** → ch06
+- **Incident and emergency management** → ch09
+- **Infrastructure safety** → ch08
+- **ISO 45001 mapping and alignment** → ch10 (alignment claim in ch02)
+- **Leadership, governance, safety culture** → ch03
+- **Legislation and regulators** → ch04
+- **Organisation and dependencies, SEMS applicability** → ch03
+- **Performance and management information** → ch09
+- **Risk assessment and safety cases** → ch05
+- **Safety management system structure and assurance stages** → ch02
+- **Supervision and duty holding** → ch06
+- **Which JSP applies** → ch01
 
 ## Supporting Files
 - `glossary.md`: Defence safety terms from the Framework and each Element's Terms and definitions, alphabetical, with chapter references.
-- `cheatsheet.md`: Element and Expectation index, assurance stages table, exemption certificate steps, safety case trigger checklist, audit cycle steps.
+- `cheatsheet.md`: Element and Expectation index, assurance stages table, exemption certificate steps, safety case trigger checklist, audit cycle steps, Annex G toolkit scoring bands.
+- `patterns.md`: techniques already stated in the chapters present in this commit (When/How/Trade-offs).
 
 ## Scope & Limits
-- **Source versions:** JSP 815 V1.3 (Framework, Elements 1 to 12, Annexes A to F) and Annex H V1.2, published 2026-09-01. Built from the 20 published PDF attachments; page provenance is in [LICENSE](LICENSE).
-- **Not in this pack:** JSP 376, JSP 375, and JSP 816 are named by the source and by ch01 as related publications but are separate documents not in this catalogue; this pack names them by title and makes no claims about their contents. DEF-STAN 00-051 is unverified as a public document and DEF-STAN 00-970 is not public; neither appears here. Annex G (Assurance Toolkit spreadsheet) is excluded.
+- **Source versions:** JSP 815 V1.3 (Framework, Elements 1 to 12, Annexes A to G) and Annex H V1.2, published 2026-09-01. Built from the 20 published PDF attachments plus the Annex G ODS; page provenance is in [LICENSE](LICENSE).
+- **Not in this pack:** JSP 376, JSP 375, and JSP 816 are named by the source and by ch01 as related publications but are separate documents not in this catalogue; this pack names them by title and makes no claims about their contents. DEF-STAN 00-051 is unverified as a public document and DEF-STAN 00-970 is not public; neither appears here. Annex G (Assurance Toolkit spreadsheet) is folded as ch11.
 - **ISO 45001:** clause numbers only, via the Annex F mapping. No ISO text is included.
 - **Fidelity:** Performance Statements are summarised as themes; Expectation wording is paraphrased except short defined terms. Chapters cite the attachment rows and paragraph or Expectation numbers behind each claim.
 - **Status:** this pack is not MOD guidance and has no official status; nothing in it suggests Ministry of Defence endorsement.

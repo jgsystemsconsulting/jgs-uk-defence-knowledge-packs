@@ -57,18 +57,17 @@ reproduced in this pack:
   MOD-HSE Memorandum of Understanding passage on RIDDOR reporting
   (Element 10), and the ISO 19011 Annex B audit technique list (Element 12).
 - MOD crests and logos, and military insignia.
-- Annex G Assurance Toolkit (spreadsheet).
 
 8. Scope
 
 This licence governs the content of this pack (SKILL.md, chapters/,
-glossary.md, cheatsheet.md). The repository's MIT licence covers tooling and
+glossary.md, cheatsheet.md, patterns.md). The repository's MIT licence covers tooling and
 scaffolding only.
 
 9. Per-source record
 
-One block per attachment used in the build (20 of the 21 published
-attachments; the spreadsheet in section 7 gets no block). "Used in" names
+One block per attachment used in the build (21 of the 21 published
+attachments). "Used in" names
 this pack's chapters (ch01 to ch10).
 
 F
@@ -210,6 +209,14 @@ Version: 1.2
 Pages: 34
 URL: https://assets.publishing.service.gov.uk/media/6a9055d69a177a1decf97af8/20260901_JSP_815_Annex_H_V1.2_O.pdf
 Used in: ch10
+
+
+AG
+Title: JSP 815 - Annex G: Assurance Toolkit v1.3
+Version: 1.3
+Pages: n/a (OpenDocument spreadsheet)
+URL: https://assets.publishing.service.gov.uk/media/6a9051dc9a177a1decf97af3/20260901_JSP815_Annex_G_Assurance_Toolkit_V1.3_O.ods
+Used in: ch11
 
 Open Government Licence v3.0 (full text, copied from The National Archives on 2026-09-25)
 

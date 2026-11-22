@@ -14,10 +14,10 @@ Rules of construction:
 
 | Cluster | Entries |
 |---|---|
-| 1. Safety Management Framework & Governance | 6 |
+| 1. Safety Management Framework & Governance | 7 |
 | 2. Risk & Operational Control | 4 |
-| 3. Performance & Assurance | 2 |
-| **Total** | **12** |
+| 3. Performance & Assurance | 3 |
+| **Total** | **14** |
 
 ## 1. Safety Management Framework & Governance
 
@@ -29,6 +29,7 @@ Rules of construction:
 | jsp-815 | ch04-legislation-and-exemptions.md | Legislation, policy, regulation and guidance; regulator relationships; exemption certificate process (E3, Annex B) |
 | jsp-815 | glossary.md (support file) | Shared Defence safety terms used across the pack, with chapter cross-references |
 | jsp-815 | cheatsheet.md (support file) | Cross-chapter decision checklists, all 72 Expectations, exemption steps, safety-case triggers, and audit cycle |
+| jsp-815 | patterns.md (support file) | Support file: techniques already stated in the jsp-815 chapters present in this commit |
 
 ## 2. Risk & Operational Control
 
@@ -45,3 +46,4 @@ Rules of construction:
 |---|---|---|
 | jsp-815 | ch09-performance-incidents-communication.md | Performance and management information; accident and incident management and emergency response; communications and stakeholder engagement (E9 to E11) |
 | jsp-815 | ch10-assurance-and-audit.md | Assurance and audit, ISO 45001 clause mapping (numbers only), and Annex H audit cycle (E12, Annexes F and H) |
+| jsp-815 | ch11-assurance-self-assessment-toolkit.md | Annex G Assurance Self-Assessment Toolkit method, scoring bands, and document-list aides for 1LOD self-assessment |

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "map_version": "0.1.0",
-  "generated_on": "2026-09-25",
+  "generated_on": "2026-11-22",
   "clusters": [
     {
       "name": "Safety Management Framework & Governance",
@@ -35,6 +35,11 @@
           "pack": "jsp-815",
           "chapter": "cheatsheet.md (support file)",
           "note": "Cross-chapter decision checklists, all 72 Expectations, exemption steps, safety-case triggers, and audit cycle"
+        },
+        {
+          "pack": "jsp-815",
+          "chapter": "patterns.md (support file)",
+          "note": "Support file: techniques already stated in the jsp-815 chapters present in this commit"
         }
       ]
     },
@@ -75,6 +80,11 @@
           "pack": "jsp-815",
           "chapter": "ch10-assurance-and-audit.md",
           "note": "Assurance and audit, ISO 45001 clause mapping (numbers only), and Annex H audit cycle (E12, Annexes F and H)"
+        },
+        {
+          "pack": "jsp-815",
+          "chapter": "ch11-assurance-self-assessment-toolkit.md",
+          "note": "Annex G Assurance Self-Assessment Toolkit method, scoring bands, and document-list aides for 1LOD self-assessment"
         }
       ]
     }

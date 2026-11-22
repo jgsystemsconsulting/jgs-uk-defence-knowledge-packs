@@ -49,7 +49,7 @@ Duty of care under JSP 815 is the direction Defence should follow toward personn
 
 ### Defence Area
 
-In Defence Safety Policy (JSP 815, JSP 375, and JSP 376), a Defence Area is one of the four top-level areas: Department of State (DOS); Armed Forces (MSHQ and Military Commands); National Armaments Director (NAD) Group; and the Defence Nuclear Enterprise (DNE). For the Armed Forces, Defence Area responsibility also applies to the component Military Commands (Army, Air, Navy, and CSOC) (Terms and definitions).
+Defence Safety Policy (JSP 815, JSP 375, and JSP 376) treats a Defence Area as one of four top-level organisational homes: DOS (Department of State); the Armed Forces home covering MSHQ together with the Military Commands; the NAD Group; and DNE (Defence Nuclear Enterprise). Armed Forces duties also run down to each component Command — Army, Air, Navy, and CSOC (Terms and definitions).
 
 ### Jurisdiction note
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "map_version": "0.1.0",
-  "generated_on": "2026-09-25",
+  "generated_on": "2026-11-22",
   "rules_of_construction": [
     "Every chapter in every pack under packs/<slug>/chapters/ is assigned to exactly one capability cluster (best fit).",
     "Cross-cutting chapters carry a remark noting the strong secondary fit.",
@@ -91,6 +91,18 @@
     {
       "pack": "jsp-815",
       "chapter": "cheatsheet.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": true
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "ch11-assurance-self-assessment-toolkit.md",
+      "cluster": "Performance & Assurance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-815",
+      "chapter": "patterns.md",
       "cluster": "Safety Management Framework & Governance",
       "is_support": true
     }

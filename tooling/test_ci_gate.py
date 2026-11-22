@@ -139,7 +139,7 @@ EMPTY_TREE_PAIR = [
         'THRESHOLDS: dict[str, int] = {"Safety Management Framework & Governance": 4, "Risk & Operational Control": 4, "Performance & Assurance": 2}',
         MAP_TWIN,
     ),
-    ("EXPECTED_NOTES_COUNT twelve", "EXPECTED_NOTES_COUNT = 12", GEN_TWIN),
+    ("EXPECTED_NOTES_COUNT fourteen", "EXPECTED_NOTES_COUNT = 14", GEN_TWIN),
     ("expected_signposts empty", "expected_signposts: list[str] = []", RULES_TWIN),
 ]
 

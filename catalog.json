@@ -10,11 +10,11 @@
       "slug": "jsp-815",
       "title": "JSP 815: Defence Safety Management System (Framework and Direction and Guidance)",
       "publisher": "Ministry of Defence (Directorate of Defence Safety & Support); reconstructed by JG Systems Consulting Ltd",
-      "source_version": "JSP 815 V1.3 (Framework, Elements 1-12, Annexes A-F), Annex H V1.2; published 2026-09-01; pinned 2026-09-25",
+      "source_version": "JSP 815 V1.3 (Framework, Elements 1-12, Annexes A-G), Annex H V1.2; published 2026-09-01; pinned 2026-09-25; Annex G folded 2026-11-22",
       "license": "Open Government Licence v3.0",
       "license_tier": 2,
       "commercial_use": true,
-      "chapters": 10,
+      "chapters": 11,
       "status": "live"
     }
   ],

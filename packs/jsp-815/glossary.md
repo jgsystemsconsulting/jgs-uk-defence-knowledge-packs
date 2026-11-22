@@ -3,7 +3,7 @@
 Defence safety terms as the chapters use them: MOD and UK meanings first, drawn from the Framework and each Element's Terms and definitions, with the chapters that carry the detail.
 
 > Contains public sector information licensed under the Open Government Licence v3.0.
-> Source: JSP 815 Defence Safety Management System V1.3 (Framework, Elements 1 to 12, Annexes A to F; Annex H V1.2), Ministry of Defence, © Crown copyright.
+> Source: JSP 815 Defence Safety Management System V1.3 (Framework, Elements 1 to 12, Annexes A to G; Annex H V1.2), Ministry of Defence, © Crown copyright.
 > Reconstructed reference notes, not reproductions. Licence text and source links: [LICENSE](LICENSE).
 
 - **4Cs**: Coordination, co-operation, communication, and control: the four duties Element 5 sets for managing visiting workers and contractors. Method detail is named to JSP 375 Chapter 34 and not carried here. → ch06
@@ -11,6 +11,7 @@ Defence safety terms as the chapters use them: MOD and UK meanings first, drawn 
 - **Accountable Person**: Term used across JSP 815 and JSP 375 for the HoE, Officer Commanding, Station Commander, and similar site or activity holders. Annex D standardises on Head of Establishment. → ch06, ch07
 - **ALARP (as low as reasonably practicable)**: Defence's usual process term for lowering risk: a risk is ALARP when further reduction would be grossly disproportionate to the benefit gained. Paired with tolerability, which is judged separately; ALARP alone is not the whole test. → ch04, ch05, ch06
 - **AoR (area of responsibility)**: The span of activity, people, and risk a leader, Duty Holder, or HoE controls. Delegated authority, competence, and Duty Holding duties all attach to the AoR. → ch06, ch07
+- **Assurance Self-Assessment Toolkit (Annex G)**: optional DDSS workbook Defence Areas may use to rate themselves against the 12 SMS Elements and 72 Expectation questions, with scoring, document lists, and action roll-up. Not mandated. → ch11, ch10
 - **ATL (Audit Team Leader)**: The auditor who plans the audit, leads fieldwork, owns the report, and reviews the auditee's Action Plan under the Annex H method. → ch10
 - **Bow-tie method**: The risk assessment method Dir-DSS recommends for strategic safety risks: hazards in the middle, causes and consequences either side, controls on the ties. → ch05
 - **CADMID/T**: The equipment lifecycle: Concept, Assessment, Demonstration, Manufacture, In-service, Disposal/Termination. Element 7 spreads equipment safety duties across all six phases. → ch08
@@ -77,3 +78,5 @@ Defence safety terms as the chapters use them: MOD and UK meanings first, drawn 
 - **Stop-work authority**: The duty and power of those controlling activity to pause or cease activity when risk is no longer ALARP and tolerable (Expectation 5.6), exercised without penalty for good-faith use. → ch06
 - **Tolerability**: The separate judgement, especially on higher-risk activity, of whether the remaining risk is acceptable given the benefit. A risk can be ALARP and still intolerable; both tests must be met. → ch05
 - **Waiver and concession**: The relief routes from Defence regulation or policy that Expectation 3.5 groups with statutory exemptions: all run through a documented process with records, conditions, and registers. Element 7 and 8 lifecycle compliance uses the same controlled relief. → ch04, ch08
+- **N/A (Annex G rating)**: grey rating meaning no information yet or not applicable / out of scope; dropped from percentage scoring. → ch11
+- **Non-conformance (Annex G)**: minor or major deviation from the Defence SMS framework recorded on toolkit Element sheets; observations sit beside them when evidence is thin or efficiency is the issue. → ch11

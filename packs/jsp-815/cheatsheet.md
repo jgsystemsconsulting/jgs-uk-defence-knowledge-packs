@@ -3,7 +3,7 @@
 Decision rules for Defence safety management questions. Each rule names the pinned chapter that owns the detail.
 
 > Contains public sector information licensed under the Open Government Licence v3.0.
-> Source: JSP 815 Defence Safety Management System V1.3 (Framework, Elements 1 to 12, Annexes A to F; Annex H V1.2), Ministry of Defence, © Crown copyright.
+> Source: JSP 815 Defence Safety Management System V1.3 (Framework, Elements 1 to 12, Annexes A to G; Annex H V1.2), Ministry of Defence, © Crown copyright.
 > Reconstructed reference notes, not reproductions. Licence text and source links: [LICENSE](LICENSE).
 
 ## Which chapter answers my question?
@@ -145,7 +145,7 @@ Decision rules for Defence safety management questions. Each rule names the pinn
 | 11.4 | Easy access to up-to-date safety information for people, contractors, and supply chain |
 | 11.5 | Anonymous routes to raise safety-related concerns |
 
-### E12 Assurance (ch10)
+### E12 Assurance (ch10; toolkit method ch11)
 
 | Exp | Expectation in one line |
 |---|---|
@@ -203,6 +203,15 @@ No certificate in force means the activity must conform or stop.
 12. Issue the audit report: narratives per Element heading with observations and recommended corrective actions, conclusions, annexes, and an Executive Summary.
 13. Debrief formally, obtain the auditee Action Plan, review its adequacy, and follow up, usually six to nine months later.
 14. Improve the programme from lessons, feed outcomes into leadership review (E12.4) and performance reporting (E9), and share good practice.
+
+
+## Annex G self-assessment toolkit steps (ch11)
+1. Confirm optional use: DDSS does not mandate the toolkit; Areas choose it for 1LOD self-assessment.
+2. Complete Element sheets E1-E12: rate each Expectation question Unsatisfactory / Limited / Moderate / Substantial / N/A; record evidence, non-conformances or observations, and actions with lead and timescale.
+3. Use document lists (single-Element and multi-Element) as evidence aides, not as a closed catalogue.
+4. Review Non-Conformance Summary for rolled-up actions.
+5. Read Score Summary percentages and radar: N/A excluded; bands below 50 Unsatisfactory, 50-74 Limited, 75-94 Moderate, 95-100 Substantial.
+6. Archive completed toolkit with the documentary evidence used at completion time.
 
 ## Quick anchors
 
