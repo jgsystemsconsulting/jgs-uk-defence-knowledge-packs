@@ -9,7 +9,9 @@
     "Signpost packs contain no chapters and are not mapped.",
     "A standard's own process definitions go to the process cluster; performing the capability goes to the capability cluster."
   ],
-  "signpost_packs": ["iso-45001-signpost"],
+  "signpost_packs": [
+    "iso-45001-signpost"
+  ],
   "support_filenames": [
     "glossary.md",
     "patterns.md",
@@ -266,6 +268,192 @@
       "pack": "jsp-375",
       "chapter": "patterns.md",
       "cluster": "Risk & Operational Control",
+      "is_support": true
+    },
+    {
+      "pack": "jsp-376",
+      "chapter": "ch01-acquisition-safety-policy.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-376",
+      "chapter": "ch02-roles-and-safety-in-the-programme.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-376",
+      "chapter": "ch03-safety-management-and-requirements.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-376",
+      "chapter": "ch04-test-evaluation-and-safety-case.md",
+      "cluster": "Performance & Assurance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-376",
+      "chapter": "ch05-supervision-assurance-approvals.md",
+      "cluster": "Performance & Assurance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-376",
+      "chapter": "ch06-early-lifecycle-phases.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-376",
+      "chapter": "ch07-demonstration-and-manufacture.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-376",
+      "chapter": "ch08-in-service-and-disposal.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-376",
+      "chapter": "glossary.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": true
+    },
+    {
+      "pack": "jsp-376",
+      "chapter": "cheatsheet.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": true
+    },
+    {
+      "pack": "jsp-912",
+      "chapter": "ch01-what-is-hfi-and-why-defence-mandates-it.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-912",
+      "chapter": "ch02-roles-and-responsibilities.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-912",
+      "chapter": "ch03-hfi-and-systems-engineering.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-912",
+      "chapter": "ch04-hfi-process-goals-activities-tailoring.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-912",
+      "chapter": "ch05-user-need-and-system-requirements.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-912",
+      "chapter": "ch06-assess-tenders-hfi-3-0.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-912",
+      "chapter": "ch07-detailed-system-design-hfi-4-0.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-912",
+      "chapter": "ch08-test-acceptance-in-service-feedback.md",
+      "cluster": "Performance & Assurance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-912",
+      "chapter": "ch09-competencies-ethics-conduct.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-912",
+      "chapter": "glossary.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": true
+    },
+    {
+      "pack": "jsp-912",
+      "chapter": "cheatsheet.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": true
+    },
+    {
+      "pack": "jsp-936",
+      "chapter": "ch01-introduction.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-936",
+      "chapter": "ch02-ai-in-defence-systems.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-936",
+      "chapter": "ch03-legal-ethics-governance.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-936",
+      "chapter": "ch04-human-ai-teams.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-936",
+      "chapter": "ch05-ai-lifecycles.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-936",
+      "chapter": "ch06-quality-safety-security.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-936",
+      "chapter": "ch07-suppliers.md",
+      "cluster": "Risk & Operational Control",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-936",
+      "chapter": "ch08-ai-assurance.md",
+      "cluster": "Performance & Assurance",
+      "is_support": false
+    },
+    {
+      "pack": "jsp-936",
+      "chapter": "glossary.md",
+      "cluster": "Safety Management Framework & Governance",
+      "is_support": true
+    },
+    {
+      "pack": "jsp-936",
+      "chapter": "cheatsheet.md",
+      "cluster": "Safety Management Framework & Governance",
       "is_support": true
     }
   ]

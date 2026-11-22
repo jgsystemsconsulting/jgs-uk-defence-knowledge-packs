@@ -47,7 +47,7 @@ Each pack brief returns at most 10 claims of at most two sentences, each with a 
 ### Citations and Sources
 
 Cite only files read this session, in these forms: `[slug chNN]`, `[slug index]`,
-`[slug glossary|patterns|cheatsheet]`, `[slug signpost]`. Drop uncited claims. Agreeing claims merge into one statement carrying every citation. Where the packs are silent, say so; no fallback to model memory. Every answer ends with a **Sources** block listing each pack's slug, its `**Source**` line, and its licence. Content-pack licences come from the Licences table, else the label `Public Domain (US Government work)`. The jsp-815, jsp-375, and jsp-816 Sources lines carry each pack's `**Source**` Open Government Licence attribution statement, and licence `Open Government Licence v3.0` comes from the Licences table. Signpost lines read `MIT (signpost)`. Identification questions about ISO 45001 ("what is ISO 45001", "where is the text") route to `iso-45001-signpost` only; the answer must **never quote** the standard. Non-commercial and share-alike terms appear in full.
+`[slug glossary|patterns|cheatsheet]`, `[slug signpost]`. Drop uncited claims. Agreeing claims merge into one statement carrying every citation. Where the packs are silent, say so; no fallback to model memory. Every answer ends with a **Sources** block listing each pack's slug, its `**Source**` line, and its licence. Content-pack licences come from the Licences table, else the label `Public Domain (US Government work)`. The jsp-815, jsp-375, jsp-816, jsp-376, jsp-912, and jsp-936 Sources lines carry each pack's `**Source**` Open Government Licence attribution statement, and licence `Open Government Licence v3.0` comes from the Licences table. Signpost lines read `MIT (signpost)`. Identification questions about ISO 45001 ("what is ISO 45001", "where is the text") route to `iso-45001-signpost` only; the answer must **never quote** the standard. Non-commercial and share-alike terms appear in full.
 
 ### Deliverable stage chains
 
@@ -71,7 +71,7 @@ Output goes in the reply unless the user names a file. A deliverable with no mat
 ### Topics
 | Topic | Keywords | Packs (best first) |
 |---|---|---|
-| Defence SMS structure and which JSP applies | JSP 815, SMS, safety management system, Defence Safety Function, Safety Operating Model, SofS Policy Statement, JSP 375, JSP 376, JSP 816, JSP 814, duty of care, PDCA, must and should, Expectation, Element, Performance Statement | `jsp-815`, `jsp-375`, `jsp-816` |
+| Defence SMS structure and which JSP applies | JSP 815, SMS, safety management system, Defence Safety Function, Safety Operating Model, SofS Policy Statement, JSP 375, JSP 376, JSP 816, JSP 814, duty of care, PDCA, must and should, Expectation, Element, Performance Statement | `jsp-815`, `jsp-375`, `jsp-816`, `jsp-376` |
 | Leadership, governance, safety culture | leadership, governance, Defence Safety Committee, safety culture, tone from the top, Just Culture, Parker-Hudson Ladder, speaking up, corporate governance, accountability | `jsp-815` |
 | Organisation and dependencies, SEMS | SEMS, safety management arrangements, Defence Area, FULLCOM, OPCOM, lodge, CSOC, MOU, organisational change, OSA, dependencies and interfaces, contractor standards, consultation, resources | `jsp-815` |
 | Legislation, regulators, exemption certificates | legislation, HSWA, SFAIRP, DED, Crown enforcement, statutory regulator, DSA regulators, MAA, DNSR, exemption certificate, ECS, waiver, concession, Combat Immunity | `jsp-815` |
@@ -83,12 +83,15 @@ Output goes in the reply unless the user names a file. A deliverable with no mat
 | Assurance, audit, ISO 45001 mapping | assurance, audit, Annex H, audit manual, 1LOD, 2LOD, 3LOD, Lines of Defence, GIAA, self-assessment, annual assurance report, ISO 45001, clause mapping, enforcement action, ISO 19011 | `jsp-815` |
 | Defence H&S arrangements handbook (JSP 375) | JSP 375, health and safety handbook, workplace inspection, first aid, COSHH, DSEAR, permit to work, lone working, heat illness, cold injury, 4Cs contractors, Volume 3 high-risk estate, alternative AMC, safe system of work, MOD Form 5010 | `jsp-375`, `jsp-815` |
 | Defence EMS and environmental protection management (JSP 816) | JSP 816, EMS, environmental management system, environmental aspect, BPEO, ISO 14001 alignment, environmental incident, Dir CCE, Element 12 Annex A toolkit, environmental self-assessment | `jsp-816`, `jsp-815` |
+| Defence acquisition safety policy (JSP 376) | JSP 376, acquisition safety, ALARP acquisition, safety case programme, SRO User safety, ITEAP, PEAT PEAP, CADMID safety, Duty Holder appointment | `jsp-376`, `jsp-815` |
+| Human Factors Integration (JSP 912) | JSP 912, HFI, human factors, HFUR HFSR HFPR, HFI-1.0 HFI-2.0 HFI-3.0 HFI-4.0 HFI-5.0 HFI-6.0, DLOD, SRL, CIEHF, human component | `jsp-912`, `jsp-815` |
+| Dependable AI in Defence (JSP 936) | JSP 936, dependable AI, AI ethics, RAS, human/AI teaming, MLOps, AI assurance, RAISO, AI safety security quality | `jsp-936`, `jsp-815` |
 | ISO 45001 identification and catalogue location | ISO 45001, what ISO 45001, where ISO 45001 text, OH&S management systems standard catalogue | `iso-45001-signpost` |
 
 ### Agency contexts
 | Agency | Keywords | Packs |
 |---|---|---|
-| MOD | MOD, Defence, DDSS, Defence Area, Head of Establishment, UK, Dir DS, Dir CCE | `jsp-815`, `jsp-375`, `jsp-816` |
+| MOD | MOD, Defence, DDSS, Defence Area, Head of Establishment, UK, Dir DS, Dir CCE | `jsp-815`, `jsp-375`, `jsp-816`, `jsp-376`, `jsp-912`, `jsp-936` |
 
 ### Deliverables
 | Deliverable | Keywords | Draft | Review | Verify |
@@ -104,6 +107,9 @@ Output goes in the reply unless the user names a file. A deliverable with no mat
 | `jsp-815` | Open Government Licence v3.0 |
 | `jsp-375` | Open Government Licence v3.0 |
 | `jsp-816` | Open Government Licence v3.0 |
+| `jsp-376` | Open Government Licence v3.0 |
+| `jsp-912` | Open Government Licence v3.0 |
+| `jsp-936` | Open Government Licence v3.0 |
 <!-- ROUTING-MAP:END -->
 
 ## Host modes
@@ -133,9 +139,9 @@ noted and skipped; if none remain, fall back to route-only.
 - At most six packs per Topics row. At most four packs read per answer.
 - Deliverable stage chains come only from Deliverables rows; empty cells skip that stage.
 - `/ukdef` never overwrites an existing file without a yes at a gate.
-- DEF-STANs (Def Stan 00-051 recorded exclusion / unreachable cover; Def Stan 00-970 not public), JSP 376, JSP 814 remain outside the catalogue; /ukdef names them by title and makes no claims about their content. Neighbouring content packs `jsp-375` and `jsp-816` are in the catalogue; this orchestrator routes to them and makes no claims about those sources beyond what those packs cite. JSP 815 Annex G Assurance Toolkit is folded into `jsp-815` ch11.
+- DEF-STANs (Def Stan 00-051 recorded exclusion / unreachable cover; Def Stan 00-970 not public) and JSP 814 remain outside the catalogue; /ukdef names them by title and makes no claims about their content. Neighbouring content packs `jsp-375`, `jsp-816`, `jsp-376`, `jsp-912`, and `jsp-936` are in the catalogue; this orchestrator routes to them and makes no claims about those sources beyond what those packs cite. JSP 815 Annex G Assurance Toolkit is folded into `jsp-815` ch11.
 - ISO 45001 text is not included. Neighbouring signpost `iso-45001-signpost` covers identification and catalogue location only; this orchestrator routes those questions there and makes no claims about the source beyond what that signpost cites. jsp-815 carries Annex F clause numbers only and must not quote the standard.
-- jsp-815, jsp-375, and jsp-816 are reconstructed reference notes, not MOD guidance, and have no official status. This orchestrator makes no claims about JSP 375 or JSP 816 source text beyond routing into those packs.
+- jsp-815, jsp-375, jsp-816, jsp-376, jsp-912, and jsp-936 are reconstructed reference notes, not MOD guidance, and have no official status. This orchestrator makes no claims about those sources beyond routing into those packs.
 
 ---
 *Orchestrator content © JG Systems Consulting Ltd. (MIT). Pack names and source titles

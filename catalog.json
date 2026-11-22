@@ -38,6 +38,39 @@
       "commercial_use": true,
       "chapters": 11,
       "status": "live"
+    },
+    {
+      "slug": "jsp-376",
+      "title": "JSP 376: Defence Acquisition Safety Policy",
+      "publisher": "Ministry of Defence; reconstructed by JG Systems Consulting Ltd",
+      "source_version": "JSP 376 Defence Acquisition Safety Policy V1.1 (April 2024)",
+      "license": "Open Government Licence v3.0",
+      "license_tier": 2,
+      "commercial_use": true,
+      "chapters": 8,
+      "status": "live"
+    },
+    {
+      "slug": "jsp-912",
+      "title": "JSP 912: Human Factors Integration in Defence Systems (Parts 1 and 2)",
+      "publisher": "Ministry of Defence; reconstructed by JG Systems Consulting Ltd",
+      "source_version": "JSP 912 Human Factors Integration in Defence Systems, Part 1 Directive and Part 2 Guidance, V3.0 (March 2024)",
+      "license": "Open Government Licence v3.0",
+      "license_tier": 2,
+      "commercial_use": true,
+      "chapters": 9,
+      "status": "live"
+    },
+    {
+      "slug": "jsp-936",
+      "title": "JSP 936: Dependable Artificial Intelligence (AI) in Defence, Part 1: Directive",
+      "publisher": "Ministry of Defence; reconstructed by JG Systems Consulting Ltd",
+      "source_version": "JSP 936 Dependable Artificial Intelligence (AI) in Defence, Part 1: Directive, V1.1 (November 2024)",
+      "license": "Open Government Licence v3.0",
+      "license_tier": 2,
+      "commercial_use": true,
+      "chapters": 8,
+      "status": "live"
     }
   ],
   "planned": []

@@ -140,8 +140,8 @@ EMPTY_TREE_PAIR = [
         MAP_TWIN,
     ),
     (
-        "EXPECTED_NOTES_COUNT forty-one",
-        "EXPECTED_NOTES_COUNT = 41",
+        "EXPECTED_NOTES_COUNT seventy-two",
+        "EXPECTED_NOTES_COUNT = 72",
         GEN_TWIN,
     ),
     ("expected_signposts iso", 'expected_signposts: list[str] = ["iso-45001-signpost"]', RULES_TWIN),

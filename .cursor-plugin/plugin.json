@@ -18,7 +18,10 @@
     "safety-management",
     "jsp-375",
     "jsp-816",
-    "environmental-management"
+    "environmental-management",
+    "jsp-376",
+    "jsp-912",
+    "jsp-936"
   ],
   "category": "developer-tools",
   "tags": [
@@ -31,6 +34,9 @@
     "./packs/jsp-815/SKILL.md",
     "./packs/jsp-375/SKILL.md",
     "./packs/jsp-816/SKILL.md",
+    "./packs/jsp-376/SKILL.md",
+    "./packs/jsp-912/SKILL.md",
+    "./packs/jsp-936/SKILL.md",
     "./packs/iso-45001-signpost/SKILL.md"
   ]
 }

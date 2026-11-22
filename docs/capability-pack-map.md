@@ -14,10 +14,10 @@ Rules of construction:
 
 | Cluster | Entries |
 |---|---|
-| 1. Safety Management Framework & Governance | 15 |
-| 2. Risk & Operational Control | 17 |
-| 3. Performance & Assurance | 9 |
-| **Total** | **41** |
+| 1. Safety Management Framework & Governance | 29 |
+| 2. Risk & Operational Control | 30 |
+| 3. Performance & Assurance | 13 |
+| **Total** | **72** |
 
 ## 1. Safety Management Framework & Governance
 
@@ -38,6 +38,20 @@ Rules of construction:
 | jsp-375 | ch01-directive-structure-and-use.md | JSP 375 handbook structure, ownership, Directive/Guidance. |
 | jsp-375 | ch02-scope-assurance-amc-coherence.md | Scope, alternative AMC, assurance via JSP 815, coherence. |
 | jsp-375 | glossary.md (support file) | JSP 375 terms glossary (support). |
+| jsp-376 | ch01-acquisition-safety-policy.md | JSP 376 policy frame: ALARP, tolerability, exemptions, and the six acquisition safety concepts |
+| jsp-376 | ch02-roles-and-safety-in-the-programme.md | SRO and User safety accountabilities, the programme envelope, and the unpublished Chapter 4 gap |
+| jsp-376 | glossary.md (support file) | Support file: glossary.md for jsp-376 |
+| jsp-376 | cheatsheet.md (support file) | Support file: cheatsheet.md for jsp-376 |
+| jsp-912 | ch01-what-is-hfi-and-why-defence-mandates-it.md | What Human Factors Integration is and why Defence policy mandates it across acquisition and through-life management |
+| jsp-912 | ch02-roles-and-responsibilities.md | HFI roles and responsibilities for programme teams, HFI practitioners, and senior stakeholders |
+| jsp-912 | ch09-competencies-ethics-conduct.md | HFI practitioner competencies and standards for research ethics and professional conduct |
+| jsp-912 | glossary.md (support file) | Support file: glossary.md for jsp-912 |
+| jsp-912 | cheatsheet.md (support file) | Support file: cheatsheet.md for jsp-912 |
+| jsp-936 | ch01-introduction.md | Policy, scope, applicability, and tailoring direction for dependable AI from JSP 936 Part 1 |
+| jsp-936 | ch02-ai-in-defence-systems.md | How AI including RAS and digital systems is framed inside Defence systems from JSP 936 Part 1 |
+| jsp-936 | ch03-legal-ethics-governance.md | Legal, ethics, and governance direction for AI-enabled capability from JSP 936 Part 1 |
+| jsp-936 | glossary.md (support file) | Support file: glossary.md for jsp-936 |
+| jsp-936 | cheatsheet.md (support file) | Support file: cheatsheet.md for jsp-936 |
 
 ## 2. Risk & Operational Control
 
@@ -60,6 +74,19 @@ Rules of construction:
 | jsp-375 | ch09-military-training-heat-cold-force-health.md | Military training, heat/cold injury, force health protection. |
 | jsp-375 | ch10-volume3-high-risk-estate-activities.md | Volume 3 high-risk estate activities overview. |
 | jsp-375 | patterns.md (support file) | Directive-first and 4Cs patterns (support). |
+| jsp-376 | ch03-safety-management-and-requirements.md | Safety Management Plan, safety KUR, and URD and SRD safety requirements across the lifecycle |
+| jsp-376 | ch06-early-lifecycle-phases.md | Pre-Concept, Concept, and Assessment safety artefacts and SOC, OBC, and FBC evidence |
+| jsp-376 | ch07-demonstration-and-manufacture.md | Demonstration evidence, Manufacture handover, and Duty Holder appointment before in-service |
+| jsp-376 | ch08-in-service-and-disposal.md | In-service safety case reviews, the two-year review ceiling, and disposal and termination |
+| jsp-912 | ch03-hfi-and-systems-engineering.md | HFI within the systems engineering life cycle and links to DLODs and System Readiness Levels |
+| jsp-912 | ch04-hfi-process-goals-activities-tailoring.md | HFI process goals and activities and how to tailor them to project scale and novelty |
+| jsp-912 | ch05-user-need-and-system-requirements.md | User needs and HFI system requirements through processes HFI-1.0 and HFI-2.0 |
+| jsp-912 | ch06-assess-tenders-hfi-3-0.md | Assessment of contractor tenders for human factors capability through process HFI-3.0 |
+| jsp-912 | ch07-detailed-system-design-hfi-4-0.md | Human factors data applied to detailed system design through process HFI-4.0 |
+| jsp-936 | ch04-human-ai-teams.md | Human and AI teaming expectations across roles and human control from JSP 936 Part 1 |
+| jsp-936 | ch05-ai-lifecycles.md | Lifecycle direction for developing, deploying, and retiring AI systems from JSP 936 Part 1 |
+| jsp-936 | ch06-quality-safety-security.md | Quality, safety, and security expectations for AI systems from JSP 936 Part 1 |
+| jsp-936 | ch07-suppliers.md | Supplier and procurement direction for acquiring AI systems from JSP 936 Part 1 |
 
 ## 3. Performance & Assurance
 
@@ -74,3 +101,7 @@ Rules of construction:
 | jsp-816 | cheatsheet.md (support file) | Element routing cheatsheet (support). |
 | jsp-375 | ch08-contractors-change-occurrences-records.md | 4Cs contractors, MoC, occurrence reporting, records. |
 | jsp-375 | cheatsheet.md (support file) | Topic routing cheatsheet (support). |
+| jsp-376 | ch04-test-evaluation-and-safety-case.md | ITEAP, certification strategy, and safety case ownership from Pre-Concept to handover |
+| jsp-376 | ch05-supervision-assurance-approvals.md | Three lines of defence, the Safety Assurance Model, and safety inside the five-case business case |
+| jsp-912 | ch08-test-acceptance-in-service-feedback.md | Test and acceptance of HFI requirements and in-service feedback through HFI-5.0 and HFI-6.0 |
+| jsp-936 | ch08-ai-assurance.md | Assurance expectations and evidence for dependable AI claims from JSP 936 Part 1 |
