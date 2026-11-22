@@ -11,6 +11,25 @@ All notable changes to this project are documented here. Format follows
 
 ## [Unreleased]
 
+## [0.3.0] - 2026-11-22
+
+### Added
+
+- jsp-376 content pack (JSP 376 Defence Acquisition Safety Policy; transplanted from SE).
+- jsp-912 content pack (JSP 912; transplanted from SE).
+- jsp-936 content pack (JSP 936 Dependable AI in Defence Part 1 Directive; transplanted from SE).
+- Fleet advisory slug-duplication checker (`tooling/check_pack_slug_dupes.py`); advisory only, not wired into CI gates.
+
+### Changed
+
+- Catalogue now six live packs plus one signpost (iso-45001-signpost). Capability map notes count 72.
+
+### Documented
+
+- SE disposition: SE release v1.24.4 removes four slugs including jsp-815 (local annotated tag exists; not pushed at cut time).
+- Drift window: consumers with both catalogues installed update SE to v1.24.4 so UK owns the moved slugs alone. Until SE v1.24.4 is pushed and consumed, both copies can coexist.
+- Slug-duplication advisory currently reports UK four cleared once SE v1.24.4 lands; five sector collisions remain in SE (easa-rules, faa-8110-49, fda-med-device, nhtsa-vehicle, nrc-nuclear) and are SE-side work.
+
 ## [0.2.0] - 2026-11-22
 
 ### Added

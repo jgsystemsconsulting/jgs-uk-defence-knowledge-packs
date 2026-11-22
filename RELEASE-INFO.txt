@@ -1,7 +1,7 @@
 jgs-uk-defence-knowledge-packs — Release
 Product:    jgs-uk-defence-knowledge-packs
-Version:    0.2.0
-Tag:        v0.2.0
-Staged:     2026-11-22T16:11:00Z
+Version:    0.3.0
+Tag:        v0.3.0
+Staged:     2026-11-22T22:51:18Z
 Vendor:     JG Systems Consulting Ltd.
 Licence:    MIT (tooling); pack content under each source's own licence (see NOTICE)
