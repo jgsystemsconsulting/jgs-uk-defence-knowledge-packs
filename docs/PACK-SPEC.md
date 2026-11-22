@@ -41,6 +41,10 @@ packs/<slug>/
   - `## Scope & Limits` (what the pack does *not* cover; which source version)
 - Every `chapters/` link in the index must resolve to a real file (CI checks this).
 
+## Scope and Limits rules
+
+A content pack's Scope and Limits names neighbouring pack in repo, slug, chapter index or scope section mentions neighbour's source, and states that this pack makes no claims about source. signpost named same way pack cites excluded standard signpost covers. rule does not require naming packs in other sectors. Ownership source document lives in docs/CROSS-PACK-BOUNDARIES.md. Apply rule jsp-815 and ukdef in same commit new neighbour, not before neighbour exists. Until then, current "not in catalogue" sentence stays true.
+
 ## Chapter file rules
 
 Reference-depth structure (prose bodies of knowledge): `Core Idea`, `Frameworks

@@ -4,7 +4,7 @@
   "sector_slug": "uk-defence",
   "scope": "UK Defence",
   "version": "0.1.0",
-  "updated": "2026-09-25",
+  "updated": "2026-11-22",
   "packs": [
     {
       "slug": "jsp-815",
@@ -18,5 +18,15 @@
       "status": "live"
     }
   ],
-  "planned": []
+  "planned": [
+    {
+      "slug": "iso-45001-signpost",
+      "title": "ISO 45001 (citation only; no standard text)",
+      "publisher": "JG Systems Consulting Ltd.",
+      "license": "MIT",
+      "license_tier": 2,
+      "commercial_use": true,
+      "status": "planned"
+    }
+  ]
 }
