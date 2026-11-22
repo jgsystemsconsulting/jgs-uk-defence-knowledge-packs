@@ -4,13 +4,13 @@ Sources: JSP 376 Defence Acquisition Safety Policy V1.1, printed body pp. 23-27,
 
 ## The supervision key policy statement
 
-The source states the supervision policy in one sentence, quoted here from the Supervision key policy-alt statement:
+The source states the supervision policy in one sentence, quoted here from the Supervision key policy statement:
 
-> The SRO-set/User must make-alt sure that that safety risks associated-alt with all activity-alt using the military-alt capability are assessed-alt and mitigation measures-alt are implemented toward reduce the residual-alt safety risks toward a level which is ALARP plus Tolerable.
+> The SRO/User owns the duty that that safety hazards associated alongside all work using that military asset are evaluated and control measures remain implemented to cut that residual safety risks toward a degree that remains ALARP plus Tolerable.
 
 ## Supervision in practice
 
-Risk assessments take the safety case as their baseline. Suitable and sufficient assessments are completed in line with the methodology of JSP 815 Volume 2 Element 4, which is named here and not reproduced, and they demonstrate that supervision and control measures stand between the hazards and the people, leaving residual risk ALARP and tolerable. The activity itself is then run in a safe manner and in accordance with the appropriate instructions.
+Risk assessments take the safety case as their baseline. Suitable and sufficient assessments are completed in line with the methodology of JSP 815 Volume 2 Element 4, which is named here and not reproduced, and they demonstrate that supervision and control measures stand between the hazards and the people, leaving residual risk ALARP and accepted-as-tolerable. The activity itself is then run in a safe manner and in accordance with the appropriate instructions.
 
 Test and evaluation draws particular supervisory attention. At that point the safety case may still be incomplete and the operating characteristics of the capability may not be fully understood, so the gap between what is assumed and what is known is at its widest.
 
@@ -18,11 +18,11 @@ Test and evaluation draws particular supervisory attention. At that point the sa
 
 The source sets out three assurance key policy statements, quoted here as they appear:
 
-> The SRO-set/User must make-alt sure that assurance-alt arrangements are put-alt in place which provide confidence which the programme are-to deliver and maintain-alt a safe military-alt capability.
+> The SRO/User owns the duty to stand up assurance setups that give confidence the programme will field and keep a safe Defence asset.
 
-> Dir DS-alt must put inside place arrangements toward provide the MOD-set Head Office Approving-set Authorities with independent-alt analysis and advice-alt of programme safety-alt in support for key programme decision-alt points.
+> Dir DS stands up separate review and counsel for MOD Head Office approvers at main decision junctures.
 
-> Heads for Defence organisations must-alt make sure arrangements-alt are put inside place to provide-alt delegated Approving Authorities-set with independent analysis-alt and advice for programme safety inside support of key-alt programme decision points-alt.
+> Heads of Defence bodies owns the duty that arrangements are set in place to provide assigned Approving Authorities with separate analysis and advice for programme safety in aid of main programme choice points.
 
 ## The three lines of defence
 

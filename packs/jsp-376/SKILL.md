@@ -29,8 +29,8 @@ The aim of acquisition safety is a capability that is safe to operate and, once 
 ### The seven-phase lifecycle and the three business cases
 Acquisition runs through Pre-Concept plus the six CADMID/T phases: Concept, Assessment, Demonstration, Manufacture, In-Service, and Disposal/Termination. Each phase executes the plan agreed in the previous phase, reviews the outcome, and plans what remains. Formal approving-authority decisions fall at the end of the first three phases, each on a business case: the Strategic Outline Case at the end of Pre-Concept, the Outline Business Case at the end of Concept, and the Full Business Case at the end of Assessment. The greatest opportunity to influence safety is early, and late mitigation costs more in performance, cost, and time.
 
-### Must, must make sure, and should
-The policy's three directive terms carry different weights. Where it says must, the action is a compulsory requirement completed by the actioner. Where it says must make sure, delivery may be assigned to an individual, but the actioner remains accountable for the actions being conducted. Where it says should, the action is not compulsory but is recommended good practice.
+### Must, owns the duty that, and should
+The policy's three directive terms carry different weights. Where it says must, the action is a binding duty on the named role. Where it says owns the duty that, delivery may be assigned to an individual, but the actioner remains accountable for the actions being conducted. Where it says should, the action is not compulsory but is advised practice.
 
 ## Chapter Index
 | Ch | Chapter | Sources | Coverage |

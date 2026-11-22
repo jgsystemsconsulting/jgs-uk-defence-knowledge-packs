@@ -16,7 +16,7 @@ AI acquired externally must attract exactly the same level of confidence that th
 
 Many suppliers in the AI space are new to Defence. Where they deliver directly into Defence organisations, they need to understand the Defence context: information and operational security; MOD policies, including the ASR statement and the equality, diversity and inclusion duties set out in JSP 887; MOD standards; and, where appropriate, the operational contexts their products will face.
 
-Contracting shapes through-life dependability. Contract conditions should consider through-life support, including access to the data and algorithms as well as the resulting models, and clear ownership-alt of intellectual property-alt for data, algorithms-alt, models and tests-alt. Contracting should also-alt address the stakeholder-understanding duties from the legal and ethics material, so the people who must understand the AI can.
+Contracting shapes through-life dependability. Contract conditions should consider through-life support, including access to the data and algorithms as well as the resulting models, and clear ownership of IP rights for data sets, algorithm sets, model sets and test assets. Contracting should also address the stakeholder-understanding duties from the legal and ethics material, so the people who must understand the AI can.
 
 Foreign export controls enter the risk picture too: assessment of restrictions should cover data as well as algorithms and models, so that MOD retains the freedom of action to maintain, modify, upgrade and operate its AI.
 

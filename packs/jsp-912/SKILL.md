@@ -24,11 +24,11 @@ Use this skill for questions about how UK Defence mandates and runs Human Factor
 
 ### What HFI is (Part 1, echoed in Part 2)
 
-HFI is a management activity: a systematic process for identifying, tracking and resolving people-related considerations so the technological and human aspects of capability develop in balance. Human Factors is the science, Human Factors Engineering is its design application, and HFI is the management process over both, organised through five domains: Personnel, Training, Human Factors Engineering, System Safety & Health Hazards, and Organisational & Social. MOD policy applies HFI to every defence acquisition activity, Development Item, Non-Development Item, Off-The-Shelf, demonstrators and upgrades alike, with scope set by risk, not exemption.
+HFI is a management activity: a ordered method for finding, following, and settling people-related considerations so the technological and human aspects of capability develop in balance. Human Factors is the science, Human Factors Engineering is its design application, and HFI is the management process over both, organised through five domains: Personnel, Training, Human Factors Engineering, System Safety & Health Hazards, and Organisational & Social. MOD policy applies HFI to every defence acquisition activity, Development Item, Non-Development Item, Off-The-Shelf, demonstrators and upgrades alike, with scope set by risk, not exemption.
 
 ### Six stage gates across the lifecycle (Part 2)
 
-The process runs in six top-level stages: HFI-1.0 User Need Definition and HFI-2.0 System Requirements Definition before contract, HFI-3.0 Assess Tenders at selection, HFI-4.0 Detailed System Design under contract, HFI-5.0 Test and Acceptance per the ITEA Plan, and HFI-6.0 In-Service Feedback through life. Seven goals govern every activity, from RAIDO management from the outset to formal acceptance of people-related aspects.
+The process runs in six top-level stages: HFI-1.0 User Need Definition and HFI-2.0 System Requirements Definition before contract, HFI-3.0 Assess Tenders at selection, HFI-4.0 Detailed System Design under contract, HFI-5.0 Test and Acceptance per the ITEA Plan, and HFI-6.0 In-Service Feedback across service life. Seven goals govern every activity, from RAIDO management from the outset to formal acceptance of people-related aspects.
 
 ### Tailoring keeps it proportionate (Parts 1 and 2)
 
@@ -42,14 +42,14 @@ Project Team Leader holds prime responsibility; the HFI Focus splits into HFIF(C
 
 | Ch | Chapter | Sources | Coverage |
 |---|---|---|---|
-| 01 | [ch01-what-is-hfi-and-why-defence-mandates-it.md](chapters/ch01-what-is-hfi-and-why-defence-mandates-it.md) | Part 1 pp. 1-4 + Part 2 pp. 1-6 | What HFI is, HF vs HFE, the five HFI domains, the mandate, the Human Component of Capability. |
+| 01 | [ch01-what-is-hfi-and-why-defence-mandates-it.md](chapters/ch01-what-is-hfi-and-why-defence-mandates-it.md) | Part 1 pp. 1-4 + Part 2 pp. 1-6 | What HFI is, HF vs HFE, the five HFI domains, the mandate, the people element of capability. |
 | 02 | [ch02-roles-and-responsibilities.md](chapters/ch02-roles-and-responsibilities.md) | Part 1 pp. 7-8 + Part 2 pp. 45-47 | The six MOD staff roles, the two HFI Focus posts, requirements management and the Golden Thread. |
 | 03 | [ch03-hfi-and-systems-engineering.md](chapters/ch03-hfi-and-systems-engineering.md) | Part 2 pp. 4-6, 10-12 | HFI inside systems engineering, DLOD considerations, System Readiness Levels with HFI as a driver. |
 | 04 | [ch04-hfi-process-goals-activities-tailoring.md](chapters/ch04-hfi-process-goals-activities-tailoring.md) | Part 1 pp. 5-6 + Part 2 pp. 7-9, 41-44 | Seven process goals, six stage overview, tailoring regime, project types (DI, NDI, OTS). |
 | 05 | [ch05-user-need-and-system-requirements.md](chapters/ch05-user-need-and-system-requirements.md) | Part 2 pp. 13-22 | HFI-1.0 User Need Definition and HFI-2.0 System Requirements Definition: EHFA, RAIDO register, HFUR/HFSR/HFPR. |
 | 06 | [ch06-assess-tenders-hfi-3-0.md](chapters/ch06-assess-tenders-hfi-3-0.md) | Part 2 pp. 23-24 | HFI-3.0 Assess Tenders: tenderer's HFI Plan, five assessment criteria, independent design analysis. |
 | 07 | [ch07-detailed-system-design-hfi-4-0.md](chapters/ch07-detailed-system-design-hfi-4-0.md) | Part 2 pp. 25-33 | HFI-4.0 Detailed System Design: HFI Working Group, joint RAIDO management, conduct of activities, deliverables. |
-| 08 | [ch08-test-acceptance-in-service-feedback.md](chapters/ch08-test-acceptance-in-service-feedback.md) | Part 2 pp. 34-40 | HFI-5.0 Test and Acceptance and HFI-6.0 In-Service Feedback: ITEA, VVRM, design freeze, lessons through life. |
+| 08 | [ch08-test-acceptance-in-service-feedback.md](chapters/ch08-test-acceptance-in-service-feedback.md) | Part 2 pp. 34-40 | HFI-5.0 Test and Acceptance and HFI-6.0 In-Service Feedback: ITEA, VVRM, design freeze, lessons across service life. |
 | 09 | [ch09-competencies-ethics-conduct.md](chapters/ch09-competencies-ethics-conduct.md) | Part 1 p. 9 + Part 2 pp. 48-49 | SQEP requirements, Awareness and Practitioner levels, CIEHF membership, JSP 536 research ethics, codes of conduct. |
 
 ## Topic Index

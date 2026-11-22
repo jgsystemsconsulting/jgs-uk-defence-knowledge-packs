@@ -4,9 +4,9 @@ Sources: JSP 376 Defence Acquisition Safety Policy V1.1, printed body pp. 18-22,
 
 ## The test and evaluation key policy statement
 
-The source states the test and evaluation policy in one sentence, quoted here from the T&E key policy-alt statement:
+The source states the test and evaluation policy in one sentence, quoted here from the T&E key policy statement:
 
-> The SRO-set/User must make-alt sure that that required safety Test-set & Evaluation (T&E-alt) activity is included-alt in, and delivered-alt through, the Integrated-set Test, Evaluation plus Acceptance Plan (ITEAP-set) to provide objective-alt evidence to support-alt the assessment for meeting the programme-alt safety requirements.
+> The SRO/User owns the duty that that required safety Test & Assessment (T&E) activity remains included within, and handed over through, that Integrated Trial, Evaluation plus Acceptance Scheme (ITEAP) to provide factual evidence toward support that assessment for meeting that programme safety requirements.
 
 ## Why test and evaluation matters
 
@@ -20,21 +20,21 @@ The SRO determines which elements of the programme need certification, liaises w
 
 ## The safety case key policy statement
 
-The source states the safety case policy in one sentence, quoted here from the Safety Case-set key policy statement-alt:
+The source states the safety case policy in one sentence, quoted here from the Safety Case key policy statement:
 
-> The SRO/User-set must make sure-alt that an evidence-alt-based Safety Case-set (SC), supporting that argument that one capability is safe-alt, is developed plus maintained.
+> The SRO/User owns the duty that one evidence-grounded Safety Case (SC), backing the claim that one capability remains safe, remains developed plus maintained.
 
 ## What a safety case is
 
 JSP 376 defines the safety case as follows:
 
-> A structured-alt argument, supported via a body for evidence that provides-alt a compelling, comprehensible-alt, and valid case-alt that a system is safe for a given application in a given operating environment.
+> A ordered safety claim, backed by proof that provides a clear, readable, and sound case that a system is safe for a given application in a given operating environment.
 
 The source's footnote points at Defence Standard 00-056 for the definition of a system and for further product-level detail. The standard is named here and not quoted.
 
 ## Scope of the safety case
 
-The safety case is through-life and pan-DLOD, and it covers the system as a whole: physical components, operating and maintenance procedures, and people. It also backs the justification that safety requirements, safety KURs included, are being met. It must show that risks are, and will remain, ALARP and tolerable in actual operation; showing that a capability could be safe, or would be safe in an unrealistic situation, is not enough. A supplier may produce a safety case arguing that its solution can be operated safely, qualified by caveats, assumptions, requirements, and dependencies that MOD still has to satisfy, because MOD carries its own legal and regulatory duties to show, so far as reasonably practicable, that its work does not expose people to intolerable or unacceptable risk. The safety case is proportionate to the hazards. Preliminary hazard identification and analysis happen early, to scope the work, and are then reviewed regularly.
+The safety case is through-life and pan-DLOD, and it covers the system as a whole: physical components, operating and maintenance procedures, and people. It also backs the justification that safety requirements, safety KURs included, are being met. It must show that risks are, and will remain, ALARP and accepted-as-tolerable in actual operation; showing that a capability could be safe, or would be safe in an unrealistic situation, is not enough. A supplier may produce a safety case arguing that its solution can be operated safely, qualified by caveats, assumptions, requirements, and dependencies that MOD still has to satisfy, because MOD carries its own legal and regulatory duties to show, so far as reasonably practicable, that its work does not expose people to intolerable or unacceptable risk. The safety case is proportionate to the hazards. Preliminary hazard identification and analysis happen early, to scope the work, and are then reviewed regularly.
 
 ## How the safety case develops
 
@@ -44,12 +44,12 @@ Development starts at Pre-Concept, and the case answers three questions: what ar
 
 The source separates two words. Accountable means personally answerable, and accountability cannot be delegated. Responsible means holding the authority to deliver a task, and responsibility can be delegated. Ownership and responsibilities are expressed in the SMP, and the SRO/User may assign development and maintenance of the safety case to safety specialists, including industry, while remaining fully accountable.
 
-During procurement, the SRO is accountable, with early and growing User engagement that culminates in endorsement and handover as the capability enters service. The User is accountable for in-service and for disposal. Submarines are the stated exception: the Defence Nuclear Organisation conducts the User function, and Navy Command, as User for in-service submarines, supports DNO and hands over the safety case on removal from service in the way it received the submarines from the SRO. Where MOD controls test and evaluation, the T&E User is accountable for a separate T&E safety case, supported by the SRO and the User. It demonstrates that the capability is safe for the planned activity and that risks are ALARP and tolerable; some elements will be common with the primary safety case, but the context differs and its scope is limited to the activity.
+During procurement, the SRO is accountable, with early and growing User engagement that culminates in endorsement and handover as the capability enters service. The User is accountable for in-service and for disposal. Submarines are the stated exception: the Defence Nuclear Organisation conducts the User function, and Navy Command, as User for in-service submarines, supports DNO and hands over the safety case on removal from service in the way it received the submarines from the SRO. Where MOD controls test and evaluation, the T&E User is accountable for a separate T&E safety case, supported by the SRO and the User. It demonstrates that the capability is safe for the planned activity and that risks are ALARP and accepted-as-tolerable; some elements will be common with the primary safety case, but the context differs and its scope is limited to the activity.
 
 ## The safety case report
 
-A safety case report is a summary of the argument at a point in time: claim, argument, and evidence, stated clearly and concisely. It is a key element of the evidence at decision points and is shared with the ASC as part of the submission evidence. Before the capability enters service, the report must show that risks are expected to be ALARP and tolerable at entry, and that they can be maintained so through the expected service life. Once in service, the report must show that they are.
+A safety case report is a summary of the argument at a point in time: claim, argument, and evidence, stated clearly and concisely. It is a key element of the evidence at decision points and is shared with the ASC as part of the submission evidence. Before the capability enters service, the report must show that risks are expected to be ALARP and accepted-as-tolerable at entry, and that they can be maintained so through the expected service life. Once in service, the report must show that they are.
 
 Contents vary with risk, complexity, and stage, but a report should briefly describe the capability, referencing the full description in the safety case; identify the scope and the supporting evidence; articulate the safety work done to date; state the assumptions and limitations on safe operation; and incorporate the key elements of the argument with references to the evidence, so that the complete case, or any identified counter-evidence, can be reached from the report.
 
-Accountability for the report follows accountability for the safety case. The SRO signs and approves reports at the key decision points of the procurement phases, accepting that the argument is mature enough to move to the next phase. At the start of, and during, in-service, the User signs and approves reports at appropriate points, accepting that residual risks remain ALARP and tolerable. During disposal, including unplanned disposal after an event such as a crash, the User should sign and approve a report accepting that the disposal risks are ALARP and tolerable.
+Accountability for the report follows accountability for the safety case. The SRO signs and approves reports at the key decision points of the procurement phases, accepting that the argument is mature enough to move to the next phase. At the start of, and during, in-service, the User signs and approves reports at appropriate points, accepting that residual risks remain ALARP and accepted-as-tolerable. During disposal, including unplanned disposal after an event such as a crash, the User should sign and approve a report accepting that the disposal risks are ALARP and accepted-as-tolerable.

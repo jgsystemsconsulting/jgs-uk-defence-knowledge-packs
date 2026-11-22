@@ -22,7 +22,7 @@ The policy applies to all acquisition programmes in all Defence organisations.
 
 ### Acquisition safety
 
-Acquisition safety is the application of management principles and techniques, across procurement, operation, and disposal, to deliver-alt a capability which is safe toward operate and able-to be operated safely-alt.
+Acquisition safety is the application of management principles and techniques, across procurement, operation, and disposal, to deliver a capability that is safe under intended use and safe when crews use it.
 
 ### The SRO
 
@@ -60,6 +60,6 @@ JSP 376 is Defence-level, pan-domain policy that draws JSP 815 and acquisition p
 
 JSP 376 is published as a single part: directive content and guidance are combined rather than split into volumes. The preface fixes the meaning of three operative terms, and the rest of this pack depends on that wording. The preface definition, quoted from paragraph 2 of printed page ii:
 
-> Where that policy says must-alt, this means which the action equals a compulsory requirement-alt to be completed-alt by the actioner-alt. Where the term-label 'must make sure-alt' is used, that action may remain delivered by one assigned individual, but-alt the actioner remains-alt accountable for those-items actions being conducted-alt. Where this policy-alt says should, that means that that action is never a compulsory requirement-alt but is considered-alt recommended good practice-alt.
+> Where this policy says is required to, this means which the act is one binding duty on the named role. Where the term 'owns the duty that' is used, the act may stay delivered via an nominated individual, but the named role remains answerable for these actions being conducted. In-cases-where this policy rule says ought to, this implies that that action remains not one compulsory obligation but remains considered advised practice.
 
-In short: `must` binds the named actioner, `must make sure` allows the work to be delivered by someone else while accountability stays with the actioner, and `should` marks recommended good practice. This pack uses the three words the same way.
+In short: `must` binds the named actioner, `owns the duty that` allows the work to be delivered by someone else while accountability stays with the actioner, and `should` marks advised practice. This pack uses the three words the same way.

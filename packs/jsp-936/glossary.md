@@ -14,7 +14,7 @@ Dependable AI terms the directive defines or characterises, alphabetical; each e
 - **DAIC (Defence AI Centre)**: body that coheres training requirements for AI-specific roles and provides technical guidance and direction. → ch01, ch03
 - **DAU (Defence AI and Autonomy Unit)**: body that manages this JSP, sets AI ethics policy, receives referrals of special-attention and high-ethical-risk AI, and is the consultation point for Dependable AI policy questions. → ch01, ch03
 - **Def Stan (Defence Standard)**: MOD standard; the directive names Def Stan 00-055 (software safety of Programmable Elements) and Def Stan 00-056 (system safety management) among others, named and not quoted here. → ch01, ch06
-- **Dependability**: how much-alt the user able-to rely on that safe, secure plus correct operation for a system within a given context of mission, human involvement, environment and system constraints; confidence must be commensurate with reliance. → ch01
+- **Dependability**: how far the operator can depend on hazard-controlled, protected and accurate use of a system within a given context of mission, human involvement, environment and system constraints; confidence must be commensurate with reliance. → ch01
 - **DevOps (Development and Operations)**: software philosophy of continual, highly automated release; the common backdrop for AI lifecycles and source of technical-debt risk. → ch05
 - **DLOD (Defence Line of Development)**: development line whose owners are named among the stakeholders the directive especially addresses. → ch01
 - **End User**: all-encompassing term for every user of a capability regardless of service, rank or role, including operators, maintainers, trainers and support personnel. → ch01, ch04

@@ -6,7 +6,7 @@ Sources: JSP 376 Defence Acquisition Safety Policy V1.1, printed body pp. 11-17,
 
 The source states the safety management policy in one sentence, quoted here from the Safety Management key policy statement:
 
-> The SRO-set/User must make-alt sure that one Safety Management Plan-set (SMP) is put-alt in place toward describe how those-actors intend a capability-alt to be safely-alt delivered, operated, plus disposed of, inside accordance with that parent organisations Safety-set Management System (SMS-set).
+> The SRO/User owns the duty that a Safety Management Plan (SMP) is stood up to describe how they intend a capability to be entered into service, run, and retired without undue harm, in accordance with the owning organisation Safety Management System (SMS).
 
 ## Plan-Do-Check-Act
 
@@ -18,7 +18,7 @@ The HSE, in HSG65, and JSP 815 recommend Plan-Do-Check-Act as a structure, and i
 
 **Check.** Monitor the safety elements as part of programme governance. Accidents, incidents, and near misses are investigated so that lessons are identified, including during test and evaluation, with JSP 375 Volume 1 Chapter 16 named as the direction.
 
-**Act.** Actions from monitoring, from assurance including regulatory enforcement, and from investigations are implemented, so the capability is delivered safe and its ALARP and tolerable status holds once delivered.
+**Act.** Actions from monitoring, from assurance including regulatory enforcement, and from investigations are implemented, so the capability is delivered safe and its ALARP and accepted-as-tolerable status holds once delivered.
 
 ## Organisational Safety Assessment
 
@@ -26,17 +26,17 @@ The Organisational Safety Assessment (OSA) is a JSP 375 product: JSP 375 Volume 
 
 ## Safety responsibilities
 
-SRO and User engage with each other early, and keep engaging through life. The SRO seeks the in-service perspective, and the User provides it; where the User is not yet appointed, the SRO arranges in-service input from someone who may not become the User. Authorities, accountabilities, and responsibilities are documented from the SRO appointment letter down, through the SMP, letters, and terms of reference, with key responsibilities acknowledged in writing. Where industry carries safety responsibilities, they are written into the contract. Staff are competent for their roles. Where there is more than one User, Heads of Defence organisations agree and appoint a Lead User.
+SRO and User engage with each other early, and keep engaging across service life. The SRO seeks the in-service perspective, and the User provides it; where the User is not yet appointed, the SRO arranges in-service input from someone who may not become the User. Authorities, accountabilities, and responsibilities are documented from the SRO appointment letter down, through the SMP, letters, and terms of reference, with key responsibilities acknowledged in writing. Where industry carries safety responsibilities, they are written into the contract. Staff are competent for their roles. Where there is more than one User, Heads of Defence organisations agree and appoint a Lead User.
 
 ## Digital engineering, quality, and information
 
-Digital tools such as digital twins, live data feeds, and digital safety cases should be actively considered, agreed early with the relevant authorities such as certification bodies, and still produce an evidence-based argument. Quality and safety are linked: JSP 940 requires proportionate processes that assure the quality of products, services, and systems, with attention to safety-critical ones. Safety information has to be managed through life, or the safety case is undermined: evidence must be accessible when required, and residual-risk information must stay current for the people who need it. The SMP defines what information sustains the safety case and how it is managed, in accordance-alt with JSP 441-alt, JSP 375 Volume-set 1 Chapter 39-alt, and relevant Defence safety regulations.
+Digital tools such as digital twins, live data feeds, and digital safety cases should be actively considered, agreed early with the relevant authorities such as certification bodies, and still produce an evidence-based argument. Quality and safety are linked: JSP 940 requires proportionate processes that assure the quality of products, services, and systems, with attention to safety-critical ones. Safety information has to be managed across service life, or the safety case is undermined: evidence must be accessible when required, and residual-risk information must stay current for the people who need it. The SMP defines what information sustains the safety case and how it is managed, in line with with JSP 441, JSP 375 Volume 1 Chapter 39, plus relevant Defence safety regulations.
 
 ## The safety requirements key policy statement
 
-The source states the safety requirements policy in one sentence, quoted here from the Safety Requirements-set key policy statement-alt:
+The source states the safety requirements policy in one sentence, quoted here from the Safety Requirements key policy statement:
 
-> The SRO must-alt make sure which the User Requirements-set Document (URD) captures-alt all safety User-set Requirements (URs) plus reflects the need-alt for the capability-alt to be both-alt 'safe to operate-alt' and 'operated safely-alt' for a given-alt application in one given operating environment-alt.
+> The SRO owns the duty that that User Needs Document (URD) captures every safety Operator Requirements (URs) and shows the need for for that capability toward be both 'safe toward operate' plus 'operated without undue harm' for one given job in one given ops environment.
 
 ## How safety requirements flow
 
@@ -48,19 +48,19 @@ For programmes of high risk and complexity, the SRO must include a candidate saf
 
 ## Through-life requirements
 
-Disposal and termination requirements are considered early, so the design does not acquire attributes that are hard to mitigate later, such as hazardous materials, or stored energy that cannot later be recovered, disarmed, or made safe. Requirements are reviewed through life.
+Disposal and termination requirements are considered early, so the design does not acquire attributes that are hard to mitigate later, such as hazardous materials, or stored energy that cannot later be recovered, disarmed, or made safe. Requirements are reviewed across service life.
 
 ## Measures of effectiveness
 
-Measures of effectiveness give objective evidence that a safety user requirement is met. "ALARP and tolerable" is not used as such a measure: that judgement belongs to the User, taken from the safety case argument. The measures themselves are agreed with the ASC.
+Measures of effectiveness give objective evidence that a safety user requirement is met. "ALARP and accepted-as-tolerable" is not used as such a measure: that judgement belongs to the User, taken from the safety case argument. The measures themselves are agreed with the ASC.
 
 ## Prioritisation and trades
 
-Safety user requirements are prioritised beside the other user requirements, including in options selection and in trades. User requirements can be traded; the safety risk must still end up ALARP and tolerable, even where a capability trade leaves the risk higher than it was. Legal plus regulatory requirements cannot-alt be traded out-alt unless an exemption-alt is available plus has been granted-alt. Legislation carries absolute, prescriptive, and proscriptive requirements as well as ALARP ones.
+Safety user requirements are prioritised beside the other user requirements, including in options selection and in trades. User requirements can be traded; the safety risk must still end up ALARP and accepted-as-tolerable, even where a capability trade leaves the risk higher than it was. Legal and regulatory requirements stay non-negotiable in trades unless a waiver is available and has been granted. Legislation carries absolute, prescriptive, and proscriptive requirements as well as ALARP ones.
 
 ## Legal and regulatory requirements
 
-Statutory and regulatory requirements, including Defence safety regulations, are identified, assessed, recorded, and monitored through life. The Defence Legislation Support Tool assists with that.
+Statutory and regulatory requirements, including Defence safety regulations, are identified, assessed, recorded, and monitored across service life. The Defence Legislation Support Tool assists with that.
 
 ## DEDs and exemptions
 

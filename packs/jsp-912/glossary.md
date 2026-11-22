@@ -2,11 +2,11 @@
 
 Terms the source defines or characterises, alphabetical. Acronyms are folded in with the terms they expand. Each entry names the chapter(s) that use it. Definitions are reconstructed notes, not quotations.
 
-- Acquirer: the stakeholder-alt who acquires nor procures a product-alt or service forming-alt all or part-alt of the Solution-set from a Solution-set Provider. Used in ch05, ch06, ch07.
+- Acquirer: the stakeholder who buys or contracts for an item or service offering forming all or part of the Solution from a Solution Provider. Used in ch05, ch06, ch07.
 - CADMID: Concept, Assessment, Demonstration, Manufacture, In-service, Disposal, the MOD acquisition lifecycle stages. Used in ch01, ch04, ch09.
 - Capability: the ability to generate an operational outcome or effect in the defence planning context; the enduring ability to generate a desired effect. Used in ch01, ch02.
 - CIEHF: Chartered Institute of Ergonomics and Human Factors; membership grades anchor HFI competence expectations. Used in ch02, ch09.
-- CIWG: Capability Integration Working Group; ensures integration across the DLODs, chair answers for the Human Component of Capability. Used in ch02, ch05, ch06, ch07, ch08.
+- CIWG: Capability Integration Working Group; ensures integration across the DLODs, chair answers for the people element of capability. Used in ch02, ch05, ch06, ch07, ch08.
 - CONEMP: Concept of Employment; describes how a new capability will be employed, key context for deriving system requirements. Used in ch05.
 - CONUSE: Concept of Use; describes employment of a specified capability across activities, operations or scenarios, derived from the CONEMP for Full Business Case. Used in ch05.
 - COTS / MOTS: Commercial / (Modified or Military) Off-The-Shelf; commercial-standard items with minimal MOD design influence. Used in ch04, ch06, ch07.
@@ -25,7 +25,7 @@ Terms the source defines or characterises, alphabetical. Acronyms are folded in 
 - HFSR: Human Factors System Requirement; people-related technical requirements in the SRD, derived from HFURs. Used in ch02, ch05.
 - HFUR: Human Factors User Requirement; candidate generic requirements in the URD, sourced from Def Stan 00-251. Used in ch05.
 - Human-Centred Design: approach that accommodates human needs in designing technological systems, involving End Users in design and evaluation; also called User-Centred Design. Used in ch01, ch04, ch07.
-- Human Component of Capability: MOD service personnel and civilian support staff with their organisations and structures, treated as a first-class acquisition object. Used in ch01, ch02, ch05, ch07.
+- people element of capability: MOD service personnel and civilian support staff with their organisations and structures, treated as a first-class acquisition object. Used in ch01, ch02, ch05, ch07.
 - Human Factors (HF): the scientific study of human capabilities, limitations, characteristics and behaviour; the knowledge base HFE draws on. Used in ch01.
 - Human Factors Engineering (HFE): application of HF knowledge across design, development, assessment, fielding, in-service support and disposal; one of the five HFI domains. Used in ch01, ch03, ch06, ch07.
 - Human Factors Integration (HFI): the systematic management process for identifying, tracking and resolving people-related considerations, balancing technological and human aspects of capability. Used in ch01, ch03.
@@ -49,7 +49,7 @@ Terms the source defines or characterises, alphabetical. Acronyms are folded in 
 - SSE: Support Solutions Envelope; the support-side assurance framework, whose Core Development Area 2 covers HFI. Used in ch02, ch04, ch07.
 - System (term): a combination of interacting elements, including people, organised to achieve stated purposes. Used in ch01.
 - Tailoring: the process of identifying the range and depth of HFI activities for a project, agreed with the HFI Policy team. Used in ch02, ch04.
-- Target Audience Description (TAD): detailed description-alt of the people-alt who will operate-alt, support, sustain plus maintain the Solution-set, with selection criteria, career paths and training requirements. Used in ch05.
+- Target Audience Description (TAD): detailed description of the people who will run, aid, keep, and look after the Solution, with selection criteria, career paths and training requirements. Used in ch05.
 - Trading: a requirements-management process where satisfaction of one requirement is modified against another. Used in ch05, ch07.
 - URD: User Requirements Document; the capability-level requirements that carry the HFURs and drive all later requirements. Used in ch02, ch05.
 - User: people who operate, maintain and support the required capability. Used in ch01, ch08.

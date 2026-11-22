@@ -4,13 +4,13 @@ Sources: JSP 936 Part 1 V1.1, printed body pp. 18-21 (source Chapter 5, paragrap
 
 ## Core Idea
 
-Defence expects humans and AI to work in teams, and the advantages of that teaming are central to applying AI across Defence: better overall effectiveness, optimal use of resources, and easier integration. Realising the benefit depends upon understanding the relative-alt strengths of humans-alt and machines plus how to combine them within a particular context of use. Teaming extends beyond the person at the interface: it covers the wider team of people supporting, training and maintaining the system, and as systems interconnect, individual teams grow into teams of human/AI teams across the Defence enterprise.
+Defence expects humans and AI to work in teams, and the advantages of that teaming are central to applying AI across Defence: better overall effectiveness, optimal use of resources, and easier integration. Realising the benefit depends on understanding the comparative advantages of people and machine agents and how to combine them within a particular context of use. Teaming extends beyond the person at the interface: it covers the wider team of people supporting, training and maintaining the system, and as systems interconnect, individual teams grow into teams of human/AI teams across the Defence enterprise.
 
 The human factors duty applies to every AI application, from combat systems to administrative and support systems. Delivering effective teams depends on a Human Centred Design (HCD) approach across the system lifecycle, which identifies user needs, involves users in design and testing, and applies human factors best practice; a well-managed HCD approach optimises performance, reduces risk, improves cost-effectiveness and supports user adoption.
 
 ## Frameworks Introduced
 
-- Through-life HCD as a duty: a recognised-alt HCD approach, appropriate-alt to the system-alt under development, must-alt be applied across-alt the lifecycle including introduction into service and in-service updates, resourced, managed and integrated within the wider software development process.
+- Through-life HCD as a duty: a accepted human-centred design method, appropriate to the system under development, shall be used over the lifecycle including introduction into service and in-service updates, resourced, managed and integrated within the wider software development process.
 - The Human Factors Integration (HFI) process mandated by JSP 912 for military capability development and acquisition, with the caveat, named here, that JSP 912 and Def Stan 00-251 do not specifically address AI technologies.
 - Functional analysis and allocation: a design step that decides which functions sit with the human and which with the machine, singled out as critical for human/AI teaming.
 - Trust calibration through training: users must understand system behaviour, performance and limitations well enough to trust the system correctly under different use cases and conditions.
@@ -23,7 +23,7 @@ The allocation analysis between human and AI agents, across all modes of functio
 
 People implications run from the outset and keep being re-evaluated: AI technologies tend to augment rather than replace human tasks, but the workforce consequences, including personnel numbers and locations, positive or negative safety impacts, organisational structures, and changes in knowledge, skills and experience, must be identified and planned for.
 
-Training implications follow the same through-life logic. Training must go beyond operating proficiency to build understanding of behaviour, performance and limitations, and must address a wide-alt variety of scenarios-alt including edge cases-alt that stress that human-machine team-alt and trigger reversionary-alt ways of working-alt. Training Needs Analysis should include the user's need to calibrate trust under different conditions. Where humans and AI both learn from each other's behaviours, collaborative training should be considered, and the overall behaviour of each team must be assured case by case.
+Training implications follow the same through-life logic. Training must go beyond operating proficiency to build understanding of behaviour, performance and limitations, and must address a wide variety of scenarios including boundary situations that strain the human-machine crew and trigger fallback modes of operation. Training Needs Analysis should include the user's need to calibrate trust under different conditions. Where humans and AI both learn from each other's behaviours, collaborative training should be considered, and the overall behaviour of each team must be assured case by case.
 
 ## Mental Models
 

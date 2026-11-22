@@ -15,7 +15,7 @@ Dependability itself is framed relationally: how much the user can rely on safe,
 - The ASR policy chain: Defence AI Strategy, then the ASR statement, then this directive, with the MOD data and digital backbone strategies named as closely linked context.
 - Reliance-confidence proportionality: no fixed dependability scale exists; confidence must match how much the system is relied upon, judged by risk owners lifecycle-wide.
 - A two-part structure: Part 1 is the directive that must be followed; Part 2 would carry the guidance, and is not part of this publication or this pack.
-- A directive vocabulary where must marks a compulsory requirement for the actioner and should marks recommended good practice to be applied as far as the context allows.
+- A directive vocabulary where must marks a compulsory requirement for the actioner and should marks advised practice to be applied as far as the context allows.
 
 ## Key Concepts
 
@@ -33,14 +33,14 @@ Delegation runs from the top: TLB Holders and Chief Executives issue direction a
 
 ## Anti-patterns
 
-The directive refuses to provide a dependability scale; confidence claims are always contextual, never a graded badge. Tailoring without a prior risk assessment is refused: where some requirements cannot be met, an assessment-alt of risk must-alt be undertaken plus the additional risk-alt managed through the AI ethical risk activities the directive sets out.
+The directive refuses to provide a dependability scale; confidence claims are always contextual, never a graded badge. Tailoring without a prior risk assessment is refused: where some requirements cannot be met, an risk evaluation shall be done and the further hazard controlled through the AI ethical risk activities the directive sets out.
 
 ## Key Takeaways
 
 - If a Defence project includes AI, this directive applies from the outset; proportionality comes from the maturity and nature of the application, not from opting out.
 - Documentation follows the extant policy for software in the application area.
 - The primary software standard named is Def Stan 00-055 for safety of Programmable Elements, which currently addresses ML only, so non-ML AI may need additional considerations; Def Stan 00-056 is relevant because AI always sits inside a larger system.
-- Organisations must review the latest government and commercial standards for applicability, adopt civil standards where possible, consult military standards for the military delta, and consider even optional standards.
+- Organisations must review the latest government and commercial standards for applicability, adopt civil standards where possible, consult military standards for the armed forces gap, and consider even optional standards.
 
 ## Connects To
 

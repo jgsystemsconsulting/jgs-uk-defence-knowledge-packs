@@ -43,7 +43,7 @@ The directive mandates no particular lifecycle. Instead it sets stage duties tha
 | Ch | Chapter | Sources | Coverage |
 |---|---|---|---|
 | 01 | [ch01-introduction.md](chapters/ch01-introduction.md) | pp. 1-5 | Policy base, AI characterisation, dependability, scope, applicability, tailoring, delegation, associated standards. |
-| 02 | [ch02-ai-in-defence-systems.md](chapters/ch02-ai-in-defence-systems.md) | pp. 5-8 | RAS and digital systems, autonomy continuum, ODD, dual-use military delta, AI labelling and advice provenance. |
+| 02 | [ch02-ai-in-defence-systems.md](chapters/ch02-ai-in-defence-systems.md) | pp. 5-8 | RAS and digital systems, autonomy continuum, ODD, dual-use armed forces gap, AI labelling and advice provenance. |
 | 03 | [ch03-legal-ethics-governance.md](chapters/ch03-legal-ethics-governance.md) | pp. 8-18 | Legal duties, five ethical principles, AI ethical risk rating and referral ladder, RAISO and governance roles, non-sovereign AI. |
 | 04 | [ch04-human-ai-teams.md](chapters/ch04-human-ai-teams.md) | pp. 18-21 | Human centred design, HFI, function allocation and the accountability gap, workforce and training implications. |
 | 05 | [ch05-ai-lifecycles.md](chapters/ch05-ai-lifecycles.md) | pp. 21-28 | MLOps, stage duties from planning through integration, data classes and properties, model reuse, V&V, competencies. |

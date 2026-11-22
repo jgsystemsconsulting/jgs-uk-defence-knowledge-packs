@@ -4,9 +4,9 @@ Sources: JSP 376 Defence Acquisition Safety Policy V1.1, printed body pp. 38-43,
 
 ## The Demonstration key policy statement
 
-The source states the Demonstration policy in one sentence, quoted here from the key policy-alt statement:
+The source states the Demonstration policy in one sentence, quoted here from the key policy statement:
 
-> During that Demonstration Phase, that SRO must make-alt sure that evidence-alt is obtained toward demonstrate that that safety requirements are-to be met, plus safety risks are-to be reduced toward a level which is ALARP plus Tolerable when that capability is due-alt to enter service-alt.
+> In Demonstration, the SRO owns the duty that proof is gathered to show that that safety needs will stay met, plus safety hazards will stay reduced toward a degree that remains ALARP plus Tolerable if the asset is scheduled to to enter service.
 
 ## Evidence and design change in Demonstration
 
@@ -18,17 +18,17 @@ Evidence may show that a requirement will not be met, in part or in full. The sa
 
 Enough evidence is gathered through the ITEAP to show that every safety requirement will be met. That evidence can come from calculation, simulation, test, inspection, production test, or operator trials, and the safety of the people conducting the T&E is itself a factor when the balance between routes is chosen. Activity at, or beyond, the edge of previous trials receives particular checking, so that design intention and material state are not compromised.
 
-Responsibility splits into three cases. Where MOD controls the T&E, the T&E User owns a separate T&E safety case, demonstrates that the residual risks of all anticipated T&E are ALARP and tolerable, implements the supervision and control measures, and makes sure operators understand the safe-to-operate configuration, which can change as the design matures. Where a contractor controls the T&E but MOD personnel take part, the SRO keeps a duty of care, and the T&E User carries out a risk assessment covering the participating MOD staff before each activity, including assurance that the contractor made their own assessment. Where the T&E is contractor-only, MOD may carry little direct liability, but the legal and reputational risks remain real, and the SRO should still seek assurance that suitable and sufficient measures stand behind the activity. Certification evidence must remain valid for the production standard after later design changes.
+Responsibility splits into three cases. Where MOD controls the T&E, the T&E User owns a separate T&E safety case, demonstrates that the residual risks of all anticipated T&E are ALARP and accepted-as-tolerable, implements the supervision and control measures, and makes sure operators understand the safe-to-operate configuration, which can change as the design matures. Where a contractor controls the T&E but MOD personnel take part, the SRO keeps a duty of care, and the T&E User carries out a risk assessment covering the participating MOD staff before each activity, including assurance that the contractor made their own assessment. Where the T&E is contractor-only, MOD may carry little direct liability, but the legal and reputational risks remain real, and the SRO should still seek assurance that suitable and sufficient measures stand behind the activity. Certification evidence must remain valid for the production standard after later design changes.
 
 ## The safety case through Demonstration
 
-The safety case is continually developed, and User involvement grows as T&E evidences the operating and maintenance procedures. A Demonstration safety case report should confirm that the required evidence has been gathered, that confidence is growing, and that the processes will support the ALARP and tolerable judgement; the SRO should sign it, and it is shared with the ASC if a formal submission is needed. There is no normal approving-authority submission at the end of Demonstration: the Annex C evidence is what tells the SRO the programme is ready to move, and where a formal decision is required the evidence is agreed with the ASC first.
+The safety case is continually developed, and User involvement grows as T&E evidences the operating and maintenance procedures. A Demonstration safety case report should confirm that the required evidence has been gathered, that confidence is growing, and that the processes will support the ALARP and accepted-as-tolerable judgement; the SRO should sign it, and it is shared with the ASC if a formal submission is needed. There is no normal approving-authority submission at the end of Demonstration: the Annex C evidence is what tells the SRO the programme is ready to move, and where a formal decision is required the evidence is agreed with the ASC first.
 
 ## The Manufacture key policy statement
 
-The source states the Manufacture policy in one sentence, quoted here from the key policy-alt statement:
+The source states the Manufacture policy in one sentence, quoted here from the key policy statement:
 
-> During that Manufacture Phase, that SRO must make-alt sure that that capability is delivered-alt to the standards-alt required, and which the User equals satisfied on handover-alt that the residual-alt safety risks hold been reduced toward an ALARP plus Tolerable level.
+> In Manufacture, the SRO owns the duty that that capability remains delivered toward the criteria required, plus that that User remains satisfied upon handover which the leftover safety hazards have was reduced toward an ALARP and Accepted as tolerable level.
 
 ## Production, handover, and the In-Service Date
 

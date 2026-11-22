@@ -4,7 +4,7 @@ Sources: JSP 912 Part 2 V3.0, printed body pp. 25-33 (stage HFI-4.0 Detailed Sys
 
 ## Core Idea
 
-The primary-alt goal of that Detailed System Design-set stage is toward ensure all HFI requirements are addressed and HFI considerations-alt are managed plus mitigated through that system design process-alt. The design process-alt is principally run-alt by the Solution-set Provider and assured-alt by the Acquirer-set. During the Demonstration phase much of the HFI work transitions from MOD to the Solution Provider, while the HFIF(PT) oversees the Solution Provider's design activities and approves outputs and deliverables. The stage is the largest in the process: seventeen core activities spanning joint management structures, the conduct of HFI activities, the shared RAIDO register, requirements and design-change management, and HFI input across the project's documents.
+The main aim of the Detailed System Design stage is to ensure all HFI requirements are addressed and HFI considerations are controlled and reduced via the design work flow. The design process is mainly led by the Solution Provider and checked by the Acquirer. During the Demonstration phase much of the HFI work transitions from MOD to the Solution Provider, while the HFIF(PT) oversees the Solution Provider's design activities and approves outputs and deliverables. The stage is the largest in the process: seventeen core activities spanning joint management structures, the conduct of HFI activities, the shared RAIDO register, requirements and design-change management, and HFI input across the project's documents.
 
 ## Frameworks Introduced
 
