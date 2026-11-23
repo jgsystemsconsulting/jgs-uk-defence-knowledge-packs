@@ -100,3 +100,7 @@ Before committing a pin edit, run `python -m py_compile tooling/test_ci_gate.py`
 `python tooling/test_ci_gate.py` and `python tooling/check_release.py`. A miss at any
 one site fails CI parity or the local gate. The sector-repo template is not updated by
 a sector flip; only the minted repo carries the live pins.
+
+## Slug checker
+
+The canonical copy of the fleet slug checker is `jgs-reference-skill/tools/check_pack_slug_dupes.py`, and the copy at `tooling/check_pack_slug_dupes.py` remains for local runs.
